@@ -1,0 +1,3460 @@
+{
+  "events" : [ {
+    "contact" : [ {
+      "name" : "Neelansh Sahai",
+      "phone" : "8318741607",
+      "role" : "Convenor"
+    }, {
+      "name" : "Raja Bhargava",
+      "phone" : "7737253979",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Avtans Kumar",
+      "phone" : "9873087896",
+      "role" : "Co-Convenor"
+    } ],
+    "description" : "Open Internet Treasure Hunt for Geeks. Let's see how you use the big data you consume on web to find your way to the Treasure🥇.",
+    "end-time" : "2018-03-11 16:00",
+    "id" : 0,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Ftech_hunt.png?alt=media&token=62d4bf3e-4b1f-411f-9f9a-4b943df6e2f5",
+    "name" : "The Tech Hunt",
+    "participants" : {
+      "2tStDY7OhRS2y5FCbtTZHQHN7Pz2" : {
+        "name" : "PRAKASH RAI",
+        "uid" : "2tStDY7OhRS2y5FCbtTZHQHN7Pz2"
+      },
+      "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+        "name" : "NIKHIL PURSWANI",
+        "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+      },
+      "5XRTAOHKyFNSPVoRK5hxasWWB4i1" : {
+        "name" : "ROSHNI RAM",
+        "uid" : "5XRTAOHKyFNSPVoRK5hxasWWB4i1"
+      },
+      "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13" : {
+        "name" : "OMPRAKASH BHINCHAR",
+        "uid" : "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13"
+      },
+      "5ycbaINwVqeF1UnPHI43GI32wim1" : {
+        "name" : "divyesh Puri",
+        "uid" : "5ycbaINwVqeF1UnPHI43GI32wim1"
+      },
+      "8zo4jrax8aPdgYRjSTdBs2g7Vll1" : {
+        "name" : "MOHAK KHARE",
+        "uid" : "8zo4jrax8aPdgYRjSTdBs2g7Vll1"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "Dipansh Khandelwal",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "B4njDQfgI6gmgSbQmuB6N3f7iRC2" : {
+        "name" : "maneesh kumar",
+        "uid" : "B4njDQfgI6gmgSbQmuB6N3f7iRC2"
+      },
+      "BpcTq4YnTmQi0K6PUulIiSrMRni1" : {
+        "name" : "MONIKA PHADNIS",
+        "uid" : "BpcTq4YnTmQi0K6PUulIiSrMRni1"
+      },
+      "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2" : {
+        "name" : "HARSHENDRA SHAH",
+        "uid" : "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2"
+      },
+      "J1xdJiEmXUOWCp7ZhEORIRO6ykR2" : {
+        "name" : "SHUBHAM BINDAL",
+        "uid" : "J1xdJiEmXUOWCp7ZhEORIRO6ykR2"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "LMWZWJr7IUOU9CmigGFKMO40ZDn1" : {
+        "name" : "ANJALI PRIYA",
+        "uid" : "LMWZWJr7IUOU9CmigGFKMO40ZDn1"
+      },
+      "LQSUYGRwUHWVVfKn9kSpuPymNR52" : {
+        "name" : "VAAIBHAVI SINGH",
+        "uid" : "LQSUYGRwUHWVVfKn9kSpuPymNR52"
+      },
+      "MkC7KzbtyYSvojDOgbBP0n70qDE2" : {
+        "name" : "HEET SANKESARA",
+        "uid" : "MkC7KzbtyYSvojDOgbBP0n70qDE2"
+      },
+      "Mv7319YJvahF2AV0ZCH9XuCrNzK2" : {
+        "name" : "Sumantraram Dudhrejiya",
+        "uid" : "Mv7319YJvahF2AV0ZCH9XuCrNzK2"
+      },
+      "Oj0eKXnQbPM4GxeoYahUKuRdkt22" : {
+        "name" : "J PREM SHANKER",
+        "uid" : "Oj0eKXnQbPM4GxeoYahUKuRdkt22"
+      },
+      "Po9w20JRXJgcXWRfakTczpbSQPa2" : {
+        "name" : "MAYANK PATHELA",
+        "uid" : "Po9w20JRXJgcXWRfakTczpbSQPa2"
+      },
+      "RWvr2e0msigcOka7BqtRSTYXCo63" : {
+        "name" : "SIDDHARTH JAIN",
+        "uid" : "RWvr2e0msigcOka7BqtRSTYXCo63"
+      },
+      "S2tiepLsotMvSaoEZot83eGsQ4s2" : {
+        "name" : "ASHUTOSH KUSHWAHA",
+        "uid" : "S2tiepLsotMvSaoEZot83eGsQ4s2"
+      },
+      "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+        "name" : "ASHUTOSH KUMAR",
+        "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+      },
+      "TfgYtQTjtGdNvOISuLbCC01hQI12" : {
+        "name" : "PRAKHAR KULSHRESTHA",
+        "uid" : "TfgYtQTjtGdNvOISuLbCC01hQI12"
+      },
+      "Viq2i2QoiqToEzS8Rtto1PyITe23" : {
+        "name" : "AKASH AGRAWAL",
+        "uid" : "Viq2i2QoiqToEzS8Rtto1PyITe23"
+      },
+      "VrN1klfVsKYoAF9IwY7CxCdPL712" : {
+        "name" : "Smit Rajput",
+        "uid" : "VrN1klfVsKYoAF9IwY7CxCdPL712"
+      },
+      "X2QvWr8aOcRU5WB6Ejhvf3OfZog1" : {
+        "name" : "SHIVAM SABOO",
+        "uid" : "X2QvWr8aOcRU5WB6Ejhvf3OfZog1"
+      },
+      "X8IdPMyQuBWibbVtgOCx0lD6NLi2" : {
+        "name" : "PALAK AMBADE",
+        "uid" : "X8IdPMyQuBWibbVtgOCx0lD6NLi2"
+      },
+      "XBiYc7puu5MxyFOALdbxRR1Hnzz1" : {
+        "name" : "HARSHAVARDHAN DYAVATH",
+        "uid" : "XBiYc7puu5MxyFOALdbxRR1Hnzz1"
+      },
+      "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2" : {
+        "name" : "RAVI VARSHNEY",
+        "uid" : "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2"
+      },
+      "ZnRhDK2P6xPBb0P9kjHyeiPCfTA3" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "ZnRhDK2P6xPBb0P9kjHyeiPCfTA3"
+      },
+      "dLW7sfQPpJcDypXMYlULePebLAs2" : {
+        "name" : "Mann Shah",
+        "uid" : "dLW7sfQPpJcDypXMYlULePebLAs2"
+      },
+      "iX2PiCyW5vVv4FHbEn2LLxpYjf93" : {
+        "name" : "VAISHNAV VAIDEHI",
+        "uid" : "iX2PiCyW5vVv4FHbEn2LLxpYjf93"
+      },
+      "iwwEZcQqjEfEBvQDso2eBXc9fC72" : {
+        "name" : "SHUBHAM SINGH",
+        "uid" : "iwwEZcQqjEfEBvQDso2eBXc9fC72"
+      },
+      "jQYKDWQnjQcU0JypltVouoSKymg1" : {
+        "name" : "VADLA KUMAR",
+        "uid" : "jQYKDWQnjQcU0JypltVouoSKymg1"
+      },
+      "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+        "name" : "Shivvrat Vinay Arya",
+        "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+      },
+      "lwe0ST2FjyTNSsHax9F4kMVQnea2" : {
+        "name" : "VASUDEV PRAJAPAT",
+        "uid" : "lwe0ST2FjyTNSsHax9F4kMVQnea2"
+      },
+      "sH1iM30ml7cblu5zoNGEtjiaqQQ2" : {
+        "name" : "ARPIT MAHESHWARI",
+        "uid" : "sH1iM30ml7cblu5zoNGEtjiaqQQ2"
+      },
+      "t19RMtA6hjSKnMBqTeAiGSwZ3FE3" : {
+        "name" : "Anil kumar",
+        "uid" : "t19RMtA6hjSKnMBqTeAiGSwZ3FE3"
+      },
+      "v1PvQckIh3XfZSpSt6lujwL2hM62" : {
+        "name" : "AKASH SHARMA",
+        "uid" : "v1PvQckIh3XfZSpSt6lujwL2hM62"
+      },
+      "v9rYssdPUUVlK8sfObHEszRkref2" : {
+        "name" : "av Singh",
+        "uid" : "v9rYssdPUUVlK8sfObHEszRkref2"
+      },
+      "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2" : {
+        "name" : "Abhishek Katara",
+        "uid" : "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2"
+      },
+      "x5CBW0Ve8MYGfHh1q3ejX9YNkd82" : {
+        "name" : "RAJAT SONI",
+        "uid" : "x5CBW0Ve8MYGfHh1q3ejX9YNkd82"
+      }
+    },
+    "prize-worth" : "₹9,000",
+    "rules" : [ "Only 1 member has to register on behalf of a team.", "Team must contain 5 members.", "No Smartphones are allowed during the course of the event.", "Any kind of communication with other teams’ members can lead to disqualification.", "1 PC will be provided to each team with uninterrupted internet access, use it wisely.", "The time to find the treasure is 120 minutes.", "Every 404 error will lead to deduction of 5 points.", "On reaching every correct checkpoint, your team will be awarded 10*(checkpoint_index) points.", "Teams will be registered on First Come First Serve criteria.", "Registration will be confirmed only after reporting to event coordinators on the day of event.", "Any damage to hardware/software provided to your team may lead to disqualification and payment of damaged cost.", "Teams can get hints (limited to 2) by using 50% value of that checkpoint.", "Hints can't be availed for last 2 checkpoints.", "Score of every checkpoint will depend on both time remaining and points scored." ],
+    "start-time" : "2018-03-11 14:00",
+    "team-size" : 5,
+    "type" : 1,
+    "venue" : "Lab 9102 and Lab 9103"
+  }, {
+    "contact" : [ {
+      "name" : "Abhishek Katara",
+      "phone" : "9460208252",
+      "role" : "Convenor"
+    }, {
+      "name" : "Anshuman Verma",
+      "phone" : "9428659093",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Keshav Purohit",
+      "phone" : "8875038111",
+      "role" : "Member"
+    } ],
+    "description" : "A competitive Programming competition wherein you can showcase your edge thinking ability combined with the power of Math and Code. The First Round will be an online which will be held on 6th March 2018 from 09:30 to 00:00 am.",
+    "end-time" : "2018-03-10 17:00",
+    "id" : 1,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Fcook_a_code1%20(1).png?alt=media&token=e1faeef7-cf92-4944-9140-4657207cef07",
+    "name" : "Cook-A-Code",
+    "participants" : {
+      "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+        "name" : "NIKHIL PURSWANI",
+        "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+      },
+      "52OKp7h54Ub7meXFCrVsxDWakGq1" : {
+        "name" : "Prakash Rai",
+        "uid" : "52OKp7h54Ub7meXFCrVsxDWakGq1"
+      },
+      "5XRTAOHKyFNSPVoRK5hxasWWB4i1" : {
+        "name" : "ROSHNI RAM",
+        "uid" : "5XRTAOHKyFNSPVoRK5hxasWWB4i1"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "B4njDQfgI6gmgSbQmuB6N3f7iRC2" : {
+        "name" : "maneesh kumar",
+        "uid" : "B4njDQfgI6gmgSbQmuB6N3f7iRC2"
+      },
+      "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2" : {
+        "name" : "HARSHENDRA SHAH",
+        "uid" : "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2"
+      },
+      "J1xdJiEmXUOWCp7ZhEORIRO6ykR2" : {
+        "name" : "SHUBHAM BINDAL",
+        "uid" : "J1xdJiEmXUOWCp7ZhEORIRO6ykR2"
+      },
+      "JekzQt4qN0Xx4rVIhwNUu8Rj9Sz2" : {
+        "name" : "RACHANA SOMA",
+        "uid" : "JekzQt4qN0Xx4rVIhwNUu8Rj9Sz2"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "LI0ZrW9M7bc2PiMVv3kslIAhu712" : {
+        "name" : "VISHAL GAUR",
+        "uid" : "LI0ZrW9M7bc2PiMVv3kslIAhu712"
+      },
+      "LMWZWJr7IUOU9CmigGFKMO40ZDn1" : {
+        "name" : "ANJALI PRIYA",
+        "uid" : "LMWZWJr7IUOU9CmigGFKMO40ZDn1"
+      },
+      "MkC7KzbtyYSvojDOgbBP0n70qDE2" : {
+        "name" : "HEET SANKESARA",
+        "uid" : "MkC7KzbtyYSvojDOgbBP0n70qDE2"
+      },
+      "RGjD1Oc9tAek955uwnXHtEQS0f02" : {
+        "name" : "MALAYAM ANUSHA",
+        "uid" : "RGjD1Oc9tAek955uwnXHtEQS0f02"
+      },
+      "RWvr2e0msigcOka7BqtRSTYXCo63" : {
+        "name" : "SIDDHARTH JAIN",
+        "uid" : "RWvr2e0msigcOka7BqtRSTYXCo63"
+      },
+      "RmLQgHuEjcNzdGIIVaX0qlLUiFV2" : {
+        "name" : "ketul patel",
+        "uid" : "RmLQgHuEjcNzdGIIVaX0qlLUiFV2"
+      },
+      "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+        "name" : "ASHUTOSH KUMAR",
+        "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+      },
+      "TDLVgFTR0gWLLiKiLL1MgmRYD2h1" : {
+        "name" : "Yash Ladha",
+        "uid" : "TDLVgFTR0gWLLiKiLL1MgmRYD2h1"
+      },
+      "TfgYtQTjtGdNvOISuLbCC01hQI12" : {
+        "name" : "PRAKHAR KULSHRESTHA",
+        "uid" : "TfgYtQTjtGdNvOISuLbCC01hQI12"
+      },
+      "Viq2i2QoiqToEzS8Rtto1PyITe23" : {
+        "name" : "AKASH AGRAWAL",
+        "uid" : "Viq2i2QoiqToEzS8Rtto1PyITe23"
+      },
+      "X2QvWr8aOcRU5WB6Ejhvf3OfZog1" : {
+        "name" : "SHIVAM SABOO",
+        "uid" : "X2QvWr8aOcRU5WB6Ejhvf3OfZog1"
+      },
+      "XXAd13KgAwNdae45wkyiDFdz8dm2" : {
+        "name" : "Saurabh Pandit",
+        "uid" : "XXAd13KgAwNdae45wkyiDFdz8dm2"
+      },
+      "ZADXbrvk1jgGG9rYFu7zeQtNlN73" : {
+        "name" : "TARUN BHARDWAJ",
+        "uid" : "ZADXbrvk1jgGG9rYFu7zeQtNlN73"
+      },
+      "ZmKpGaT6A6RRsaqUXSgEnQFBtWm2" : {
+        "name" : "DAKSHKUMAR GONDALIYA",
+        "uid" : "ZmKpGaT6A6RRsaqUXSgEnQFBtWm2"
+      },
+      "ZnRhDK2P6xPBb0P9kjHyeiPCfTA3" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "ZnRhDK2P6xPBb0P9kjHyeiPCfTA3"
+      },
+      "bHlZbzAVRfdvi3B7gAFX1Z5r8aE3" : {
+        "name" : "UDAY KIRAN CHALLA",
+        "uid" : "bHlZbzAVRfdvi3B7gAFX1Z5r8aE3"
+      },
+      "cYMzsFMdXLURQrbeTqI3OnJ76Ty2" : {
+        "name" : "SAURABH TIWARI",
+        "uid" : "cYMzsFMdXLURQrbeTqI3OnJ76Ty2"
+      },
+      "d0xuipilk2VDEhmEqhmq72SshS32" : {
+        "name" : "VASHIST HEGDE",
+        "uid" : "d0xuipilk2VDEhmEqhmq72SshS32"
+      },
+      "dLW7sfQPpJcDypXMYlULePebLAs2" : {
+        "name" : "Mann Shah",
+        "uid" : "dLW7sfQPpJcDypXMYlULePebLAs2"
+      },
+      "dbxNEIbmTDctBWHTrR7Z6slF2193" : {
+        "name" : "PARUL SONI",
+        "uid" : "dbxNEIbmTDctBWHTrR7Z6slF2193"
+      },
+      "hojwzcs24IWNjZeMgSvA0pyZAN42" : {
+        "name" : "SHIVAM SINGH",
+        "uid" : "hojwzcs24IWNjZeMgSvA0pyZAN42"
+      },
+      "iX2PiCyW5vVv4FHbEn2LLxpYjf93" : {
+        "name" : "VAISHNAV VAIDEHI",
+        "uid" : "iX2PiCyW5vVv4FHbEn2LLxpYjf93"
+      },
+      "jFtcljmpM0hCdwIY6KKj9cWaLSI2" : {
+        "name" : "VISHAL KATIYAR",
+        "uid" : "jFtcljmpM0hCdwIY6KKj9cWaLSI2"
+      },
+      "jrcjJ2kuxZPpILuBELMgrtIgTn92" : {
+        "name" : "KULSHRESHTHA GOYAL",
+        "uid" : "jrcjJ2kuxZPpILuBELMgrtIgTn92"
+      },
+      "mJVXwx2GsNfHMgkcFXgCzT9eM2F2" : {
+        "name" : "Mofid Ansari",
+        "uid" : "mJVXwx2GsNfHMgkcFXgCzT9eM2F2"
+      },
+      "mdNwL1uPTlc488NGPjAWWU23EsS2" : {
+        "name" : "NAVEEN SATYARTHI",
+        "uid" : "mdNwL1uPTlc488NGPjAWWU23EsS2"
+      },
+      "rI9Wf8AOJ3PaCDyLyD0RIuF01fJ2" : {
+        "name" : "SANDEEP PRADHAN",
+        "uid" : "rI9Wf8AOJ3PaCDyLyD0RIuF01fJ2"
+      },
+      "sixO6oqVq4UIbeF0rfPuqw2gz9z1" : {
+        "name" : "Aashutosh Rathi",
+        "uid" : "sixO6oqVq4UIbeF0rfPuqw2gz9z1"
+      },
+      "tbSXj5hCSgY94EilRKzeFRFWVnU2" : {
+        "name" : "ROHAN DHOOT",
+        "uid" : "tbSXj5hCSgY94EilRKzeFRFWVnU2"
+      },
+      "v9rYssdPUUVlK8sfObHEszRkref2" : {
+        "name" : "av Singh",
+        "uid" : "v9rYssdPUUVlK8sfObHEszRkref2"
+      },
+      "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2" : {
+        "name" : "Abhishek Katara",
+        "uid" : "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2"
+      },
+      "x5CBW0Ve8MYGfHh1q3ejX9YNkd82" : {
+        "name" : "RAJAT SONI",
+        "uid" : "x5CBW0Ve8MYGfHh1q3ejX9YNkd82"
+      },
+      "xCPFuQwqCJVOFf1d8fjo8O8s9hj1" : {
+        "name" : "POOJA GURJAR",
+        "uid" : "xCPFuQwqCJVOFf1d8fjo8O8s9hj1"
+      }
+    },
+    "prize-worth" : "₹8,000",
+    "rules" : [ "A team must contain at-most 3 members.", "Please do not discuss strategy, suggestions or tips in the comments during a live contest.", "Any team or participant found to be indulging in any form of malpractice will be immediately disqualified. ", "The number of submissions that one can make during the contest on the problem will be limited to 400.", "The decision of the organizers in declaring the result will be final. No other queries in this regards will be entertained.", "Each team can bring a help-book/notes of 5 page, both sided print-out for the event. The print-out must be in the following format : 1. Name of the Team and Team Member’s CodeChef handle on the top of each page (both side). 2. The complete document must be in the Times New Roman font and 14 font size. 4. The text can be on both the sides but the total number of pages must not exceed 5.", "The teams will not be allowed to share their print-outs with other teams." ],
+    "start-time" : "2018-03-10 16:00",
+    "team-size" : 3,
+    "type" : 1,
+    "venue" : "Lab 9102 and Lab 9103"
+  }, {
+    "contact" : [ {
+      "name" : "Monal Shadi",
+      "phone" : "8866306890",
+      "role" : "Convenor"
+    }, {
+      "name" : "Srishti Chaudhary",
+      "phone" : "-",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Palak Ambade",
+      "phone" : "-",
+      "role" : "Co-Convenor"
+    } ],
+    "description" : "Ever thought of writing with the MONITOR OFF? So, here comes a great coding competition where you can test your coding skills. Let’s see if you can get the least amount of errors or NO ERROR without looking at your CODE!!",
+    "end-time" : "2018-03-10 12:30",
+    "id" : 2,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Fblind_coding1%20(2).png?alt=media&token=3753dd16-f788-4bae-aef0-80cf3f4064b9",
+    "name" : "Black Box",
+    "participants" : {
+      "00TFc1RDWIhwU2AnumIhXI5xUcH2" : {
+        "name" : "KHUSHBOO GARG",
+        "uid" : "00TFc1RDWIhwU2AnumIhXI5xUcH2"
+      },
+      "0xOYNrrpcPdsIaRBPMlpS5I2FJO2" : {
+        "name" : "AMAN YADAV",
+        "uid" : "0xOYNrrpcPdsIaRBPMlpS5I2FJO2"
+      },
+      "2KGr4usgY4hu6Po7KLQOzDmUuyB3" : {
+        "name" : "suresh upadhyay",
+        "uid" : "2KGr4usgY4hu6Po7KLQOzDmUuyB3"
+      },
+      "4jNZOLfj8ohDRtWELxTP9WGlxuV2" : {
+        "name" : "anjansrivathsav g",
+        "uid" : "4jNZOLfj8ohDRtWELxTP9WGlxuV2"
+      },
+      "52OKp7h54Ub7meXFCrVsxDWakGq1" : {
+        "name" : "Prakash Rai",
+        "uid" : "52OKp7h54Ub7meXFCrVsxDWakGq1"
+      },
+      "5XRTAOHKyFNSPVoRK5hxasWWB4i1" : {
+        "name" : "ROSHNI RAM",
+        "uid" : "5XRTAOHKyFNSPVoRK5hxasWWB4i1"
+      },
+      "5ycbaINwVqeF1UnPHI43GI32wim1" : {
+        "name" : "divyesh Puri",
+        "uid" : "5ycbaINwVqeF1UnPHI43GI32wim1"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "B4njDQfgI6gmgSbQmuB6N3f7iRC2" : {
+        "name" : "maneesh kumar",
+        "uid" : "B4njDQfgI6gmgSbQmuB6N3f7iRC2"
+      },
+      "BzFo1whYCDgJjKxQULM6TTx3r9G2" : {
+        "name" : "PRIYANSHU VERMA",
+        "uid" : "BzFo1whYCDgJjKxQULM6TTx3r9G2"
+      },
+      "Ga0hd0gbwMbSEv69DxJXRPqV7mF3" : {
+        "name" : "SUBHASH KALICHARAN",
+        "uid" : "Ga0hd0gbwMbSEv69DxJXRPqV7mF3"
+      },
+      "HyBQVgwl7If4NvA2jcC5jYPNmS53" : {
+        "name" : "PREETI YADAV",
+        "uid" : "HyBQVgwl7If4NvA2jcC5jYPNmS53"
+      },
+      "J1xdJiEmXUOWCp7ZhEORIRO6ykR2" : {
+        "name" : "SHUBHAM BINDAL",
+        "uid" : "J1xdJiEmXUOWCp7ZhEORIRO6ykR2"
+      },
+      "JekzQt4qN0Xx4rVIhwNUu8Rj9Sz2" : {
+        "name" : "RACHANA SOMA",
+        "uid" : "JekzQt4qN0Xx4rVIhwNUu8Rj9Sz2"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "LMWZWJr7IUOU9CmigGFKMO40ZDn1" : {
+        "name" : "ANJALI PRIYA",
+        "uid" : "LMWZWJr7IUOU9CmigGFKMO40ZDn1"
+      },
+      "MkC7KzbtyYSvojDOgbBP0n70qDE2" : {
+        "name" : "HEET SANKESARA",
+        "uid" : "MkC7KzbtyYSvojDOgbBP0n70qDE2"
+      },
+      "O8QDHh861tS85hcKVmDY34Pex5T2" : {
+        "name" : "SAKSHEE JAIN",
+        "uid" : "O8QDHh861tS85hcKVmDY34Pex5T2"
+      },
+      "Oj0eKXnQbPM4GxeoYahUKuRdkt22" : {
+        "name" : "J PREM SHANKER",
+        "uid" : "Oj0eKXnQbPM4GxeoYahUKuRdkt22"
+      },
+      "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+        "name" : "ASHUTOSH KUMAR",
+        "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+      },
+      "d0xuipilk2VDEhmEqhmq72SshS32" : {
+        "name" : "VASHIST HEGDE",
+        "uid" : "d0xuipilk2VDEhmEqhmq72SshS32"
+      },
+      "hojwzcs24IWNjZeMgSvA0pyZAN42" : {
+        "name" : "SHIVAM SINGH",
+        "uid" : "hojwzcs24IWNjZeMgSvA0pyZAN42"
+      },
+      "iX2PiCyW5vVv4FHbEn2LLxpYjf93" : {
+        "name" : "VAISHNAV VAIDEHI",
+        "uid" : "iX2PiCyW5vVv4FHbEn2LLxpYjf93"
+      },
+      "jrcjJ2kuxZPpILuBELMgrtIgTn92" : {
+        "name" : "KULSHRESHTHA GOYAL",
+        "uid" : "jrcjJ2kuxZPpILuBELMgrtIgTn92"
+      },
+      "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+        "name" : "Shivvrat Vinay Arya",
+        "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+      },
+      "migswcvXT5gOFjYgEgaO36mCUXx1" : {
+        "name" : "KIRTIKA SINGHAL",
+        "uid" : "migswcvXT5gOFjYgEgaO36mCUXx1"
+      },
+      "qzkfCpl8qURPGojny6QcFn8guQH2" : {
+        "name" : "SAHADEV INDLIA",
+        "uid" : "qzkfCpl8qURPGojny6QcFn8guQH2"
+      },
+      "rI9Wf8AOJ3PaCDyLyD0RIuF01fJ2" : {
+        "name" : "SANDEEP PRADHAN",
+        "uid" : "rI9Wf8AOJ3PaCDyLyD0RIuF01fJ2"
+      },
+      "sixO6oqVq4UIbeF0rfPuqw2gz9z1" : {
+        "name" : "Aashutosh Rathi",
+        "uid" : "sixO6oqVq4UIbeF0rfPuqw2gz9z1"
+      },
+      "t19RMtA6hjSKnMBqTeAiGSwZ3FE3" : {
+        "name" : "Anil kumar",
+        "uid" : "t19RMtA6hjSKnMBqTeAiGSwZ3FE3"
+      },
+      "uYBKRlmprcWvlHLQ1TzCCzRIjog1" : {
+        "name" : "SHREYAS PRAVIN DAWARE",
+        "uid" : "uYBKRlmprcWvlHLQ1TzCCzRIjog1"
+      },
+      "v9rYssdPUUVlK8sfObHEszRkref2" : {
+        "name" : "av Singh",
+        "uid" : "v9rYssdPUUVlK8sfObHEszRkref2"
+      },
+      "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2" : {
+        "name" : "Abhishek Katara",
+        "uid" : "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2"
+      },
+      "x5CBW0Ve8MYGfHh1q3ejX9YNkd82" : {
+        "name" : "RAJAT SONI",
+        "uid" : "x5CBW0Ve8MYGfHh1q3ejX9YNkd82"
+      }
+    },
+    "prize-worth" : "₹3,500",
+    "rules" : [ "The monitors will be switched off.", "Use of pen or paper is not allowed.", "You can only type in gedit. No other text editor/IDE will be allowed.", "Each contestant will be given two questions that are to be solved in the given time.", "Any team or participant found to be indulging in any form of malpractice will be immediately disqualified.", "The organizer’s decision will be final." ],
+    "start-time" : "2018-03-10 11:30",
+    "team-size" : 1,
+    "type" : 1,
+    "venue" : "Lab 9102 and Lab 9103"
+  }, {
+    "contact" : [ {
+      "name" : "Ujwal Tewari",
+      "phone" : "9455555683",
+      "role" : "Convenor"
+    }, {
+      "name" : "Rachana Soma",
+      "phone" : "-",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Shreyas Daware",
+      "phone" : "8329333792",
+      "role" : "Member"
+    } ],
+    "description" : "A Battle Between Individuals to Prove who's the Flash of Typing!",
+    "end-time" : "2018-03-11 12:30",
+    "id" : 3,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Ftype_racer.png?alt=media&token=04daa826-966a-427f-9bb2-633bf4dc8a50",
+    "name" : "Type Racer",
+    "participants" : {
+      "1CcR5wpRr7ftSqL6OQIpsGouCOe2" : {
+        "name" : "Anshuman Verma",
+        "uid" : "1CcR5wpRr7ftSqL6OQIpsGouCOe2"
+      },
+      "1JJFcnhD2tUhVDbdx5CVjyXvTyn2" : {
+        "name" : "YOGESH AGARWAL",
+        "uid" : "1JJFcnhD2tUhVDbdx5CVjyXvTyn2"
+      },
+      "2KGr4usgY4hu6Po7KLQOzDmUuyB3" : {
+        "name" : "suresh upadhyay",
+        "uid" : "2KGr4usgY4hu6Po7KLQOzDmUuyB3"
+      },
+      "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+        "name" : "NIKHIL PURSWANI",
+        "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+      },
+      "4jNZOLfj8ohDRtWELxTP9WGlxuV2" : {
+        "name" : "anjansrivathsav g",
+        "uid" : "4jNZOLfj8ohDRtWELxTP9WGlxuV2"
+      },
+      "52OKp7h54Ub7meXFCrVsxDWakGq1" : {
+        "name" : "Prakash Rai",
+        "uid" : "52OKp7h54Ub7meXFCrVsxDWakGq1"
+      },
+      "5ycbaINwVqeF1UnPHI43GI32wim1" : {
+        "name" : "divyesh Puri",
+        "uid" : "5ycbaINwVqeF1UnPHI43GI32wim1"
+      },
+      "6n2Y3REpfzg1tRHNoAqg0E3cSrx2" : {
+        "name" : "ABHISHEK KUMAR",
+        "uid" : "6n2Y3REpfzg1tRHNoAqg0E3cSrx2"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "BpcTq4YnTmQi0K6PUulIiSrMRni1" : {
+        "name" : "MONIKA PHADNIS",
+        "uid" : "BpcTq4YnTmQi0K6PUulIiSrMRni1"
+      },
+      "CUFtYx2FRnNhav2dZxNYbR9QdEv2" : {
+        "name" : "AJAY KUMAR",
+        "uid" : "CUFtYx2FRnNhav2dZxNYbR9QdEv2"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "LMWZWJr7IUOU9CmigGFKMO40ZDn1" : {
+        "name" : "ANJALI PRIYA",
+        "uid" : "LMWZWJr7IUOU9CmigGFKMO40ZDn1"
+      },
+      "Oj0eKXnQbPM4GxeoYahUKuRdkt22" : {
+        "name" : "J PREM SHANKER",
+        "uid" : "Oj0eKXnQbPM4GxeoYahUKuRdkt22"
+      },
+      "PSkwE6HTDIRvnZ2ebdIaKRbWSh12" : {
+        "name" : "ANIL SHARMA",
+        "uid" : "PSkwE6HTDIRvnZ2ebdIaKRbWSh12"
+      },
+      "Po9w20JRXJgcXWRfakTczpbSQPa2" : {
+        "name" : "MAYANK PATHELA",
+        "uid" : "Po9w20JRXJgcXWRfakTczpbSQPa2"
+      },
+      "RtjzC5Hkwudjro37ejUeAGhZuye2" : {
+        "name" : "saurabh srivastava",
+        "uid" : "RtjzC5Hkwudjro37ejUeAGhZuye2"
+      },
+      "SHU2j1D8mZeytcTSc9lG6a9RPj23" : {
+        "name" : "KOTHA SAI",
+        "uid" : "SHU2j1D8mZeytcTSc9lG6a9RPj23"
+      },
+      "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+        "name" : "ASHUTOSH KUMAR",
+        "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+      },
+      "UfQsAQSFNsbw7qOkQ7g3VEcljIk2" : {
+        "name" : "VAIBHAV SINGH BHADAURIA",
+        "uid" : "UfQsAQSFNsbw7qOkQ7g3VEcljIk2"
+      },
+      "V1VuHOXjXseuNpSWdqfermoIrm53" : {
+        "name" : "KAMLESH KUMAR",
+        "uid" : "V1VuHOXjXseuNpSWdqfermoIrm53"
+      },
+      "Vb8J0JjZFRZx2t7C8WZQ5kkYEZs2" : {
+        "name" : "ankit kumar",
+        "uid" : "Vb8J0JjZFRZx2t7C8WZQ5kkYEZs2"
+      },
+      "ZnRhDK2P6xPBb0P9kjHyeiPCfTA3" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "ZnRhDK2P6xPBb0P9kjHyeiPCfTA3"
+      },
+      "d0xuipilk2VDEhmEqhmq72SshS32" : {
+        "name" : "VASHIST HEGDE",
+        "uid" : "d0xuipilk2VDEhmEqhmq72SshS32"
+      },
+      "dLW7sfQPpJcDypXMYlULePebLAs2" : {
+        "name" : "Mann Shah",
+        "uid" : "dLW7sfQPpJcDypXMYlULePebLAs2"
+      },
+      "dbxNEIbmTDctBWHTrR7Z6slF2193" : {
+        "name" : "PARUL SONI",
+        "uid" : "dbxNEIbmTDctBWHTrR7Z6slF2193"
+      },
+      "iX2PiCyW5vVv4FHbEn2LLxpYjf93" : {
+        "name" : "VAISHNAV VAIDEHI",
+        "uid" : "iX2PiCyW5vVv4FHbEn2LLxpYjf93"
+      },
+      "iiGRXMZVfSZWAz4qJAvFGPngdkR2" : {
+        "name" : "MADHUKAR JAISWAL",
+        "uid" : "iiGRXMZVfSZWAz4qJAvFGPngdkR2"
+      },
+      "jrcjJ2kuxZPpILuBELMgrtIgTn92" : {
+        "name" : "KULSHRESHTHA GOYAL",
+        "uid" : "jrcjJ2kuxZPpILuBELMgrtIgTn92"
+      },
+      "lS21RmaNc2Uc4GcfzXL8yZnHsAn1" : {
+        "name" : "MISTRY JAY",
+        "uid" : "lS21RmaNc2Uc4GcfzXL8yZnHsAn1"
+      },
+      "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+        "name" : "Shivvrat Vinay Arya",
+        "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+      },
+      "oFnxHzl5T3QxkgDZIu7cMQs1Tsv2" : {
+        "name" : "PRITHA UPADHYAY",
+        "uid" : "oFnxHzl5T3QxkgDZIu7cMQs1Tsv2"
+      },
+      "sijLevxfcghbUYWrwXkAIm6zW9x1" : {
+        "name" : "AVTANS KUMAR",
+        "uid" : "sijLevxfcghbUYWrwXkAIm6zW9x1"
+      },
+      "sixO6oqVq4UIbeF0rfPuqw2gz9z1" : {
+        "name" : "Aashutosh Rathi",
+        "uid" : "sixO6oqVq4UIbeF0rfPuqw2gz9z1"
+      },
+      "stuNS7gcR9NbLhCeXUYYOVW5oFX2" : {
+        "name" : "PRACHI AGARWAL",
+        "uid" : "stuNS7gcR9NbLhCeXUYYOVW5oFX2"
+      },
+      "t19RMtA6hjSKnMBqTeAiGSwZ3FE3" : {
+        "name" : "Anil kumar",
+        "uid" : "t19RMtA6hjSKnMBqTeAiGSwZ3FE3"
+      },
+      "v9rYssdPUUVlK8sfObHEszRkref2" : {
+        "name" : "av Singh",
+        "uid" : "v9rYssdPUUVlK8sfObHEszRkref2"
+      },
+      "x5CBW0Ve8MYGfHh1q3ejX9YNkd82" : {
+        "name" : "RAJAT SONI",
+        "uid" : "x5CBW0Ve8MYGfHh1q3ejX9YNkd82"
+      },
+      "xCPFuQwqCJVOFf1d8fjo8O8s9hj1" : {
+        "name" : "POOJA GURJAR",
+        "uid" : "xCPFuQwqCJVOFf1d8fjo8O8s9hj1"
+      }
+    },
+    "prize-worth" : "₹2,000",
+    "rules" : [ "Spam Scripts or any kind of hacks are banned.", "Any form of disturbance caused, may lead to disqualification", "Any form of complaints regarding the hardware will not be entertained.", "In case of any discrepancy, Organizer’s decision will be final." ],
+    "start-time" : "2018-03-11 11:30",
+    "team-size" : 1,
+    "type" : 0,
+    "venue" : "Lab 9102 and Lab 9103"
+  }, {
+    "contact" : [ {
+      "name" : "Rajat Soni",
+      "phone" : "7568555549",
+      "role" : "Convenor"
+    }, {
+      "name" : "Preeti Yadav",
+      "phone" : "-",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Chanchal Saini",
+      "phone" : "-",
+      "role" : "Co-Convenor"
+    } ],
+    "description" : "We turn the cube and it twists us! Compete in solving the 3x3 and 4x4 Cubes with other masters of Cube.",
+    "end-time" : "2 Full-days",
+    "id" : 4,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Frubik_cube.png?alt=media&token=2a12fa33-8a29-4689-abb9-a46e42c60689",
+    "name" : "Rubik's Cube",
+    "participants" : {
+      "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+        "name" : "NIKHIL PURSWANI",
+        "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+      },
+      "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13" : {
+        "name" : "OMPRAKASH BHINCHAR",
+        "uid" : "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "B4njDQfgI6gmgSbQmuB6N3f7iRC2" : {
+        "name" : "maneesh kumar",
+        "uid" : "B4njDQfgI6gmgSbQmuB6N3f7iRC2"
+      },
+      "GLL9T61HOIRzq7kMsncwnHwziap2" : {
+        "name" : "SUNNY PRAKASH",
+        "uid" : "GLL9T61HOIRzq7kMsncwnHwziap2"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "LMWZWJr7IUOU9CmigGFKMO40ZDn1" : {
+        "name" : "ANJALI PRIYA",
+        "uid" : "LMWZWJr7IUOU9CmigGFKMO40ZDn1"
+      },
+      "Oj0eKXnQbPM4GxeoYahUKuRdkt22" : {
+        "name" : "J PREM SHANKER",
+        "uid" : "Oj0eKXnQbPM4GxeoYahUKuRdkt22"
+      },
+      "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+        "name" : "ASHUTOSH KUMAR",
+        "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+      },
+      "W7OcULFBlpRCeOzwiJyxRz0nF082" : {
+        "name" : "Harsh Parihar",
+        "uid" : "W7OcULFBlpRCeOzwiJyxRz0nF082"
+      },
+      "Z1Ic58B54OVCM9TkjFhBSsmkaAy1" : {
+        "name" : "DUBBASI S VAMSHI NIVAS",
+        "uid" : "Z1Ic58B54OVCM9TkjFhBSsmkaAy1"
+      },
+      "hojwzcs24IWNjZeMgSvA0pyZAN42" : {
+        "name" : "SHIVAM SINGH",
+        "uid" : "hojwzcs24IWNjZeMgSvA0pyZAN42"
+      },
+      "v56Np4KKdtYLuUdB8QWKiMEr5ww2" : {
+        "name" : "JALLA MANIKANTA SWAMY",
+        "uid" : "v56Np4KKdtYLuUdB8QWKiMEr5ww2"
+      },
+      "vzESwO1SSQWPoMlOigh3kxLFlC23" : {
+        "name" : "Harsh Savaliya",
+        "uid" : "vzESwO1SSQWPoMlOigh3kxLFlC23"
+      },
+      "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2" : {
+        "name" : "Abhishek Katara",
+        "uid" : "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2"
+      },
+      "x5CBW0Ve8MYGfHh1q3ejX9YNkd82" : {
+        "name" : "RAJAT SONI",
+        "uid" : "x5CBW0Ve8MYGfHh1q3ejX9YNkd82"
+      },
+      "xbQslsJukCgSPXfWbH75ZE6sNS93" : {
+        "name" : "Aangi Shah",
+        "uid" : "xbQslsJukCgSPXfWbH75ZE6sNS93"
+      }
+    },
+    "prize-worth" : "The Cube themselves will be given as prizes.",
+    "rules" : [ "Time limit for solving 3x3x3 is 5 minutes", "Time limit for solving 4x4x4 is 10 minutes", "Cube should not be damaged, marked or otherwise altered. ", "If for any reason cube doesn't function correctly  falls apart or moves out of the solved state accidentally once the timer has stopped the cube will be considered as unsolved.", "Competitor must place their hands flat on table and must not have any physical contact with the cube before the starting of game.", "In any case of cheating or not abiding by the rules, there will be a penalty of 15s", "You will only be given one chance.", "For 3x3x3 cubes winners will be decided on the basis of time taken to solve the cube", "For 4x4x4 winners will be decided on the basis of total no. of faces solved in minimum time." ],
+    "start-time" : "2018-03-10 10:00",
+    "team-size" : 1,
+    "type" : 0,
+    "venue" : "Outside Lab 9003"
+  }, {
+    "contact" : [ {
+      "name" : "Divyesh Puri",
+      "phone" : "8005741254",
+      "role" : "Convenor"
+    }, {
+      "name" : "Sahadev Indlia",
+      "phone" : "9079383704",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Preeti Yadav",
+      "phone" : "-",
+      "role" : "Co-Convenor"
+    } ],
+    "description" : "Relay is a programming competition emphasizing on the importance of the teamwork in programming environment which is very crucial for any person in the field of IT.",
+    "end-time" : "2018-03-11 11:30",
+    "id" : 5,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Frelay_code.png?alt=media&token=f6195526-3090-46d2-8917-c02789c689ee",
+    "name" : "Relay Coding",
+    "participants" : {
+      "0xOYNrrpcPdsIaRBPMlpS5I2FJO2" : {
+        "name" : "AMAN YADAV",
+        "uid" : "0xOYNrrpcPdsIaRBPMlpS5I2FJO2"
+      },
+      "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+        "name" : "NIKHIL PURSWANI",
+        "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+      },
+      "52OKp7h54Ub7meXFCrVsxDWakGq1" : {
+        "name" : "Prakash Rai",
+        "uid" : "52OKp7h54Ub7meXFCrVsxDWakGq1"
+      },
+      "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13" : {
+        "name" : "OMPRAKASH BHINCHAR",
+        "uid" : "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "BpcTq4YnTmQi0K6PUulIiSrMRni1" : {
+        "name" : "MONIKA PHADNIS",
+        "uid" : "BpcTq4YnTmQi0K6PUulIiSrMRni1"
+      },
+      "J1xdJiEmXUOWCp7ZhEORIRO6ykR2" : {
+        "name" : "SHUBHAM BINDAL",
+        "uid" : "J1xdJiEmXUOWCp7ZhEORIRO6ykR2"
+      },
+      "JekzQt4qN0Xx4rVIhwNUu8Rj9Sz2" : {
+        "name" : "RACHANA SOMA",
+        "uid" : "JekzQt4qN0Xx4rVIhwNUu8Rj9Sz2"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "LMWZWJr7IUOU9CmigGFKMO40ZDn1" : {
+        "name" : "ANJALI PRIYA",
+        "uid" : "LMWZWJr7IUOU9CmigGFKMO40ZDn1"
+      },
+      "M744fYYjyWbi7PI3PFNSDd3xdnp1" : {
+        "name" : "Neeraj Rajpurohit",
+        "uid" : "M744fYYjyWbi7PI3PFNSDd3xdnp1"
+      },
+      "MkC7KzbtyYSvojDOgbBP0n70qDE2" : {
+        "name" : "HEET SANKESARA",
+        "uid" : "MkC7KzbtyYSvojDOgbBP0n70qDE2"
+      },
+      "NQWl3V2q9pWkNi0gWzcARxAJt6s1" : {
+        "name" : "VYOM GUPTA",
+        "uid" : "NQWl3V2q9pWkNi0gWzcARxAJt6s1"
+      },
+      "Oj0eKXnQbPM4GxeoYahUKuRdkt22" : {
+        "name" : "J PREM SHANKER",
+        "uid" : "Oj0eKXnQbPM4GxeoYahUKuRdkt22"
+      },
+      "QJmIIuzbejThIU75kPXUEzkMwXY2" : {
+        "name" : "Ashu Yadav",
+        "uid" : "QJmIIuzbejThIU75kPXUEzkMwXY2"
+      },
+      "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+        "name" : "ASHUTOSH KUMAR",
+        "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+      },
+      "ZADXbrvk1jgGG9rYFu7zeQtNlN73" : {
+        "name" : "TARUN BHARDWAJ",
+        "uid" : "ZADXbrvk1jgGG9rYFu7zeQtNlN73"
+      },
+      "d0xuipilk2VDEhmEqhmq72SshS32" : {
+        "name" : "VASHIST HEGDE",
+        "uid" : "d0xuipilk2VDEhmEqhmq72SshS32"
+      },
+      "hojwzcs24IWNjZeMgSvA0pyZAN42" : {
+        "name" : "SHIVAM SINGH",
+        "uid" : "hojwzcs24IWNjZeMgSvA0pyZAN42"
+      },
+      "hq9GOwCyWXZiQRS1VbDz9kQCrNt1" : {
+        "name" : "PRAKHAR PRAKASH GUPTA",
+        "uid" : "hq9GOwCyWXZiQRS1VbDz9kQCrNt1"
+      },
+      "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+        "name" : "Shivvrat Vinay Arya",
+        "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+      },
+      "migswcvXT5gOFjYgEgaO36mCUXx1" : {
+        "name" : "KIRTIKA SINGHAL",
+        "uid" : "migswcvXT5gOFjYgEgaO36mCUXx1"
+      },
+      "t19RMtA6hjSKnMBqTeAiGSwZ3FE3" : {
+        "name" : "Anil kumar",
+        "uid" : "t19RMtA6hjSKnMBqTeAiGSwZ3FE3"
+      },
+      "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2" : {
+        "name" : "Abhishek Katara",
+        "uid" : "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2"
+      },
+      "x5CBW0Ve8MYGfHh1q3ejX9YNkd82" : {
+        "name" : "RAJAT SONI",
+        "uid" : "x5CBW0Ve8MYGfHh1q3ejX9YNkd82"
+      }
+    },
+    "prize-worth" : "₹6,000",
+    "rules" : [ "Any misbehaviour from the participants during the may lead to disqualification", "All participants are required to report at most 10 minutes before the event starts.", "All the participants are required to keep the Unique ID code with them ", "In case of any disputes, the final word will remain with organizers.", "The Event is a team based event of 2 members.", "There are 4 phases of the event, each member will enter alternatively for 15 minutes each." ],
+    "start-time" : "2018-03-11 10:30",
+    "team-size" : 2,
+    "type" : 1,
+    "venue" : "Lab 9102 and Lab 9103"
+  }, {
+    "contact" : [ {
+      "name" : "Yash Ladha",
+      "phone" : "9512698007",
+      "role" : "Convenor"
+    }, {
+      "name" : "Aashutosh Rathi",
+      "phone" : "7737253979",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Anjali Priya",
+      "phone" : "-",
+      "role" : "Member"
+    } ],
+    "description" : "Real-time Quiz based on deep and conceptual knowledge of different technologies, languages and their documentation.",
+    "end-time" : "2018-03-11 10:30",
+    "id" : 6,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Fbig_tech_quiz.png?alt=media&token=8cf80966-876a-4674-84cb-72a3ce2d312a",
+    "name" : "The Big Tech Quiz",
+    "participants" : {
+      "0xOYNrrpcPdsIaRBPMlpS5I2FJO2" : {
+        "name" : "AMAN YADAV",
+        "uid" : "0xOYNrrpcPdsIaRBPMlpS5I2FJO2"
+      },
+      "1CcR5wpRr7ftSqL6OQIpsGouCOe2" : {
+        "name" : "Anshuman Verma",
+        "uid" : "1CcR5wpRr7ftSqL6OQIpsGouCOe2"
+      },
+      "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+        "name" : "NIKHIL PURSWANI",
+        "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+      },
+      "52OKp7h54Ub7meXFCrVsxDWakGq1" : {
+        "name" : "Prakash Rai",
+        "uid" : "52OKp7h54Ub7meXFCrVsxDWakGq1"
+      },
+      "5ycbaINwVqeF1UnPHI43GI32wim1" : {
+        "name" : "divyesh Puri",
+        "uid" : "5ycbaINwVqeF1UnPHI43GI32wim1"
+      },
+      "7FvE4KKIyQXm7U7dj1WYifPVHwg1" : {
+        "name" : "Kaustubh Dwivedi",
+        "uid" : "7FvE4KKIyQXm7U7dj1WYifPVHwg1"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "B4njDQfgI6gmgSbQmuB6N3f7iRC2" : {
+        "name" : "maneesh kumar",
+        "uid" : "B4njDQfgI6gmgSbQmuB6N3f7iRC2"
+      },
+      "Hvb5nGCSpmRdRqIYsjBQKziW7tl1" : {
+        "name" : "VARUN BAFNA",
+        "uid" : "Hvb5nGCSpmRdRqIYsjBQKziW7tl1"
+      },
+      "HyBQVgwl7If4NvA2jcC5jYPNmS53" : {
+        "name" : "PREETI YADAV",
+        "uid" : "HyBQVgwl7If4NvA2jcC5jYPNmS53"
+      },
+      "J1xdJiEmXUOWCp7ZhEORIRO6ykR2" : {
+        "name" : "SHUBHAM BINDAL",
+        "uid" : "J1xdJiEmXUOWCp7ZhEORIRO6ykR2"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "LI0ZrW9M7bc2PiMVv3kslIAhu712" : {
+        "name" : "VISHAL GAUR",
+        "uid" : "LI0ZrW9M7bc2PiMVv3kslIAhu712"
+      },
+      "MkC7KzbtyYSvojDOgbBP0n70qDE2" : {
+        "name" : "HEET SANKESARA",
+        "uid" : "MkC7KzbtyYSvojDOgbBP0n70qDE2"
+      },
+      "O8QDHh861tS85hcKVmDY34Pex5T2" : {
+        "name" : "SAKSHEE JAIN",
+        "uid" : "O8QDHh861tS85hcKVmDY34Pex5T2"
+      },
+      "Oj0eKXnQbPM4GxeoYahUKuRdkt22" : {
+        "name" : "J PREM SHANKER",
+        "uid" : "Oj0eKXnQbPM4GxeoYahUKuRdkt22"
+      },
+      "Po9w20JRXJgcXWRfakTczpbSQPa2" : {
+        "name" : "MAYANK PATHELA",
+        "uid" : "Po9w20JRXJgcXWRfakTczpbSQPa2"
+      },
+      "RWvr2e0msigcOka7BqtRSTYXCo63" : {
+        "name" : "SIDDHARTH JAIN",
+        "uid" : "RWvr2e0msigcOka7BqtRSTYXCo63"
+      },
+      "RtjzC5Hkwudjro37ejUeAGhZuye2" : {
+        "name" : "saurabh srivastava",
+        "uid" : "RtjzC5Hkwudjro37ejUeAGhZuye2"
+      },
+      "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+        "name" : "ASHUTOSH KUMAR",
+        "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+      },
+      "T94aqt5095azSUQnkIlpWhxnHwp1" : {
+        "name" : "Dheeraj Agrawal",
+        "uid" : "T94aqt5095azSUQnkIlpWhxnHwp1"
+      },
+      "TfgYtQTjtGdNvOISuLbCC01hQI12" : {
+        "name" : "PRAKHAR KULSHRESTHA",
+        "uid" : "TfgYtQTjtGdNvOISuLbCC01hQI12"
+      },
+      "Vb8J0JjZFRZx2t7C8WZQ5kkYEZs2" : {
+        "name" : "ankit kumar",
+        "uid" : "Vb8J0JjZFRZx2t7C8WZQ5kkYEZs2"
+      },
+      "Viq2i2QoiqToEzS8Rtto1PyITe23" : {
+        "name" : "AKASH AGRAWAL",
+        "uid" : "Viq2i2QoiqToEzS8Rtto1PyITe23"
+      },
+      "VrN1klfVsKYoAF9IwY7CxCdPL712" : {
+        "name" : "Smit Rajput",
+        "uid" : "VrN1klfVsKYoAF9IwY7CxCdPL712"
+      },
+      "XXAd13KgAwNdae45wkyiDFdz8dm2" : {
+        "name" : "Saurabh Pandit",
+        "uid" : "XXAd13KgAwNdae45wkyiDFdz8dm2"
+      },
+      "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2" : {
+        "name" : "RAVI VARSHNEY",
+        "uid" : "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2"
+      },
+      "dw8SgLfpEAT1HSpsSoNrwkppNLk1" : {
+        "name" : "Piyush Motwani",
+        "uid" : "dw8SgLfpEAT1HSpsSoNrwkppNLk1"
+      },
+      "hojwzcs24IWNjZeMgSvA0pyZAN42" : {
+        "name" : "SHIVAM SINGH",
+        "uid" : "hojwzcs24IWNjZeMgSvA0pyZAN42"
+      },
+      "iiGRXMZVfSZWAz4qJAvFGPngdkR2" : {
+        "name" : "MADHUKAR JAISWAL",
+        "uid" : "iiGRXMZVfSZWAz4qJAvFGPngdkR2"
+      },
+      "jrcjJ2kuxZPpILuBELMgrtIgTn92" : {
+        "name" : "KULSHRESHTHA GOYAL",
+        "uid" : "jrcjJ2kuxZPpILuBELMgrtIgTn92"
+      },
+      "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+        "name" : "Shivvrat Vinay Arya",
+        "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+      },
+      "lwe0ST2FjyTNSsHax9F4kMVQnea2" : {
+        "name" : "VASUDEV PRAJAPAT",
+        "uid" : "lwe0ST2FjyTNSsHax9F4kMVQnea2"
+      },
+      "migswcvXT5gOFjYgEgaO36mCUXx1" : {
+        "name" : "KIRTIKA SINGHAL",
+        "uid" : "migswcvXT5gOFjYgEgaO36mCUXx1"
+      },
+      "oFnxHzl5T3QxkgDZIu7cMQs1Tsv2" : {
+        "name" : "PRITHA UPADHYAY",
+        "uid" : "oFnxHzl5T3QxkgDZIu7cMQs1Tsv2"
+      },
+      "qzkfCpl8qURPGojny6QcFn8guQH2" : {
+        "name" : "SAHADEV INDLIA",
+        "uid" : "qzkfCpl8qURPGojny6QcFn8guQH2"
+      },
+      "sH1iM30ml7cblu5zoNGEtjiaqQQ2" : {
+        "name" : "ARPIT MAHESHWARI",
+        "uid" : "sH1iM30ml7cblu5zoNGEtjiaqQQ2"
+      },
+      "sixO6oqVq4UIbeF0rfPuqw2gz9z1" : {
+        "name" : "Aashutosh Rathi",
+        "uid" : "sixO6oqVq4UIbeF0rfPuqw2gz9z1"
+      },
+      "t19RMtA6hjSKnMBqTeAiGSwZ3FE3" : {
+        "name" : "Anil kumar",
+        "uid" : "t19RMtA6hjSKnMBqTeAiGSwZ3FE3"
+      },
+      "tbSXj5hCSgY94EilRKzeFRFWVnU2" : {
+        "name" : "ROHAN DHOOT",
+        "uid" : "tbSXj5hCSgY94EilRKzeFRFWVnU2"
+      },
+      "v9rYssdPUUVlK8sfObHEszRkref2" : {
+        "name" : "av Singh",
+        "uid" : "v9rYssdPUUVlK8sfObHEszRkref2"
+      },
+      "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2" : {
+        "name" : "Abhishek Katara",
+        "uid" : "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2"
+      },
+      "xCPFuQwqCJVOFf1d8fjo8O8s9hj1" : {
+        "name" : "POOJA GURJAR",
+        "uid" : "xCPFuQwqCJVOFf1d8fjo8O8s9hj1"
+      },
+      "y9qZraboBJUyPMVDh4BMyFnontt1" : {
+        "name" : "ADITYA SAI",
+        "uid" : "y9qZraboBJUyPMVDh4BMyFnontt1"
+      }
+    },
+    "prize-worth" : "₹4,500",
+    "rules" : [ "It's an individual competition", "Do not discuss Strategy during the Quiz.", "In case of any dispute, decision of Organisers will be final.", "You should have your own PC or Mobile with proper Internet connection.", "You are not allowed to disturb others.", "Use of pen and paper is allowed.", "No doubts during the quiz will be entertained", "It's a live Quiz containing 15 Tech questions", "Incase of a tie, there are 3-Tiebreaker questions to decide on the winner.", "Time limit is of 30 secs per question.", "Each question holds 5 points.", "Link of quiz will be provided just Login with your Institute ID and play." ],
+    "start-time" : "2018-03-11 09:30",
+    "team-size" : 1,
+    "type" : 1,
+    "venue" : "Room 9001"
+  }, {
+    "contact" : [ {
+      "name" : "Vikash Rajput",
+      "phone" : "8076782431",
+      "role" : "Convenor"
+    }, {
+      "name" : "Sunny Prakash",
+      "phone" : "9429023796",
+      "role" : "Co-Convenor"
+    } ],
+    "description" : "Alumni of National Institute of Design, Ahmedabad & University of Creative Arts, Farnham, UK, Mr Ravikiran Rangaswamy will be sharing his life experiences of how he made it in the photography industry. He will also tell the student about what is the current scenario in Photography Industry and how they can make it in the Photography Industry.",
+    "end-time" : "2018-03-11 17:00",
+    "id" : 7,
+    "name" : "\"Career in Photography\" By \"Ravikiran Rangaswamy\"",
+    "participants" : {
+      "5ycbaINwVqeF1UnPHI43GI32wim1" : {
+        "name" : "divyesh Puri",
+        "uid" : "5ycbaINwVqeF1UnPHI43GI32wim1"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "DceIhsKizjZg6xG7OzBvpcoqyv43" : {
+        "name" : "VIKAS RAJPUT",
+        "uid" : "DceIhsKizjZg6xG7OzBvpcoqyv43"
+      },
+      "GLL9T61HOIRzq7kMsncwnHwziap2" : {
+        "name" : "SUNNY PRAKASH",
+        "uid" : "GLL9T61HOIRzq7kMsncwnHwziap2"
+      },
+      "HyBQVgwl7If4NvA2jcC5jYPNmS53" : {
+        "name" : "PREETI YADAV",
+        "uid" : "HyBQVgwl7If4NvA2jcC5jYPNmS53"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "LMWZWJr7IUOU9CmigGFKMO40ZDn1" : {
+        "name" : "ANJALI PRIYA",
+        "uid" : "LMWZWJr7IUOU9CmigGFKMO40ZDn1"
+      },
+      "Oj0eKXnQbPM4GxeoYahUKuRdkt22" : {
+        "name" : "J PREM SHANKER",
+        "uid" : "Oj0eKXnQbPM4GxeoYahUKuRdkt22"
+      },
+      "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+        "name" : "ASHUTOSH KUMAR",
+        "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+      },
+      "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2" : {
+        "name" : "RAVI VARSHNEY",
+        "uid" : "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2"
+      },
+      "qzkfCpl8qURPGojny6QcFn8guQH2" : {
+        "name" : "SAHADEV INDLIA",
+        "uid" : "qzkfCpl8qURPGojny6QcFn8guQH2"
+      },
+      "sixO6oqVq4UIbeF0rfPuqw2gz9z1" : {
+        "name" : "Aashutosh Rathi",
+        "uid" : "sixO6oqVq4UIbeF0rfPuqw2gz9z1"
+      },
+      "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2" : {
+        "name" : "Abhishek Katara",
+        "uid" : "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2"
+      }
+    },
+    "rules" : [ "Attendees are expected to be present there in room 9101 sharp 3:45 PM" ],
+    "start-time" : "2018-03-11 16:00",
+    "team-size" : "N/A",
+    "type" : 0,
+    "venue" : "Room 9101"
+  }, {
+    "contact" : [ {
+      "name" : "Akash Sharma",
+      "phone" : "9462476620",
+      "role" : "Convenor"
+    }, {
+      "name" : "Ayush Mudgal",
+      "phone" : "9429021511",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Pranay Banawadi",
+      "phone" : "9887715791",
+      "role" : "Member"
+    } ],
+    "description" : "It is a multiplayer first person shooter game played between counter terrorists and terrorists. It shall comprise of knockout rounds to semis to finals.",
+    "end-time" : "2018-03-11 14:00",
+    "id" : 8,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Fcs_go.png?alt=media&token=89311161-2ff3-4585-bc9b-aec11194b15c",
+    "name" : "Counter Strike: Global Offensive",
+    "participants" : {
+      "1CcR5wpRr7ftSqL6OQIpsGouCOe2" : {
+        "name" : "Anshuman Verma",
+        "uid" : "1CcR5wpRr7ftSqL6OQIpsGouCOe2"
+      },
+      "1mqAH2ljGUPtO6XqvwjcPFNDp1I2" : {
+        "name" : "SUSHIL KANNOJE",
+        "uid" : "1mqAH2ljGUPtO6XqvwjcPFNDp1I2"
+      },
+      "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+        "name" : "NIKHIL PURSWANI",
+        "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+      },
+      "52OKp7h54Ub7meXFCrVsxDWakGq1" : {
+        "name" : "Prakash Rai",
+        "uid" : "52OKp7h54Ub7meXFCrVsxDWakGq1"
+      },
+      "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13" : {
+        "name" : "OMPRAKASH BHINCHAR",
+        "uid" : "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13"
+      },
+      "8hQONhrLfPgZdsezVkBxFhY1R8h2" : {
+        "name" : "JEETPAL MEENA",
+        "uid" : "8hQONhrLfPgZdsezVkBxFhY1R8h2"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "DceIhsKizjZg6xG7OzBvpcoqyv43" : {
+        "name" : "VIKAS RAJPUT",
+        "uid" : "DceIhsKizjZg6xG7OzBvpcoqyv43"
+      },
+      "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2" : {
+        "name" : "HARSHENDRA SHAH",
+        "uid" : "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2"
+      },
+      "GLL9T61HOIRzq7kMsncwnHwziap2" : {
+        "name" : "SUNNY PRAKASH",
+        "uid" : "GLL9T61HOIRzq7kMsncwnHwziap2"
+      },
+      "Hvb5nGCSpmRdRqIYsjBQKziW7tl1" : {
+        "name" : "VARUN BAFNA",
+        "uid" : "Hvb5nGCSpmRdRqIYsjBQKziW7tl1"
+      },
+      "KESg1VbZYJWRA6Se5Nu8Je8U0v02" : {
+        "name" : "PRASHANT SHARMA",
+        "uid" : "KESg1VbZYJWRA6Se5Nu8Je8U0v02"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "Po9w20JRXJgcXWRfakTczpbSQPa2" : {
+        "name" : "MAYANK PATHELA",
+        "uid" : "Po9w20JRXJgcXWRfakTczpbSQPa2"
+      },
+      "QJmIIuzbejThIU75kPXUEzkMwXY2" : {
+        "name" : "Ashu Yadav",
+        "uid" : "QJmIIuzbejThIU75kPXUEzkMwXY2"
+      },
+      "RpO3WJTnopOZY4nBcGnLgjCzcwW2" : {
+        "name" : "Monal",
+        "uid" : "RpO3WJTnopOZY4nBcGnLgjCzcwW2"
+      },
+      "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+        "name" : "ASHUTOSH KUMAR",
+        "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+      },
+      "TfgYtQTjtGdNvOISuLbCC01hQI12" : {
+        "name" : "PRAKHAR KULSHRESTHA",
+        "uid" : "TfgYtQTjtGdNvOISuLbCC01hQI12"
+      },
+      "VgP5XV7WL2QtGcs7sDOBOA2Iyus2" : {
+        "name" : "ADITYA KASHYAP",
+        "uid" : "VgP5XV7WL2QtGcs7sDOBOA2Iyus2"
+      },
+      "Viq2i2QoiqToEzS8Rtto1PyITe23" : {
+        "name" : "AKASH AGRAWAL",
+        "uid" : "Viq2i2QoiqToEzS8Rtto1PyITe23"
+      },
+      "X4OF7LS6shQ7CRhJ35Rcq6QzPL03" : {
+        "name" : "Piyush Pawar",
+        "uid" : "X4OF7LS6shQ7CRhJ35Rcq6QzPL03"
+      },
+      "XZx4YzoSFMcsknBGUIQ3TEuAMjh2" : {
+        "name" : "KESHAV PARTH PUROHIT",
+        "uid" : "XZx4YzoSFMcsknBGUIQ3TEuAMjh2"
+      },
+      "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2" : {
+        "name" : "RAVI VARSHNEY",
+        "uid" : "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2"
+      },
+      "b6XM29bpJufHARQiA4fh9i07Xxf2" : {
+        "name" : "AVDHESH YADAV",
+        "uid" : "b6XM29bpJufHARQiA4fh9i07Xxf2"
+      },
+      "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+        "name" : "Shivvrat Vinay Arya",
+        "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+      },
+      "mdNwL1uPTlc488NGPjAWWU23EsS2" : {
+        "name" : "NAVEEN SATYARTHI",
+        "uid" : "mdNwL1uPTlc488NGPjAWWU23EsS2"
+      },
+      "sijLevxfcghbUYWrwXkAIm6zW9x1" : {
+        "name" : "AVTANS KUMAR",
+        "uid" : "sijLevxfcghbUYWrwXkAIm6zW9x1"
+      },
+      "t19RMtA6hjSKnMBqTeAiGSwZ3FE3" : {
+        "name" : "Anil kumar",
+        "uid" : "t19RMtA6hjSKnMBqTeAiGSwZ3FE3"
+      },
+      "uYBKRlmprcWvlHLQ1TzCCzRIjog1" : {
+        "name" : "SHREYAS PRAVIN DAWARE",
+        "uid" : "uYBKRlmprcWvlHLQ1TzCCzRIjog1"
+      },
+      "v1PvQckIh3XfZSpSt6lujwL2hM62" : {
+        "name" : "AKASH SHARMA",
+        "uid" : "v1PvQckIh3XfZSpSt6lujwL2hM62"
+      },
+      "viKOpfNUQYgRSrQLOuxMsXR0hKE3" : {
+        "name" : "MAYANK MAURYA",
+        "uid" : "viKOpfNUQYgRSrQLOuxMsXR0hKE3"
+      },
+      "xbQslsJukCgSPXfWbH75ZE6sNS93" : {
+        "name" : "Aangi Shah",
+        "uid" : "xbQslsJukCgSPXfWbH75ZE6sNS93"
+      }
+    },
+    "prize-worth" : "₹8,000",
+    "rules" : [ "Server settings will be as per standard rules of Competitive Match-Making.", "In case of Tie, overtime of 6 rounds will be used to decide the winner.", "The map pool will always be the Active Duty map pool and therefore might be updated before each tournament: de_nuke, de_cache, de_train, de_mirage, de_inferno, de_overpass, de_cbble", "A knife round will be played to determine the side. This is forced by the server. The winner of this knife round will choose the side by typing .stay or . switch in the chat.", "If the server crashes at any given time, the existing score will be retained and the match will be reset.", "All teams are expected to be there and confirm their attendance 15 minutes before the start of the match.", "Foul language, offensive and disruptive behaviour will not be tolerated from any player and will result in the loss of the match thereby dropping out of tournament.", "All participants must adhere to the decisions and rules of the tournament organisers, admins, and referees. All decisions are final, except in cases where the option to appeal is clearly stated." ],
+    "start-time" : "2018-03-10 10:00",
+    "team-size" : 5,
+    "type" : 0,
+    "venue" : "Lab 9002 and Lab 9003"
+  }, {
+    "contact" : [ {
+      "name" : "Sourabh Rohit",
+      "phone" : "8871151169",
+      "role" : "Convenor"
+    }, {
+      "name" : "Varun Bafna",
+      "phone" : "9660222010",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Ronik Shah",
+      "phone" : "8866276721",
+      "role" : "Member"
+    } ],
+    "description" : "The best players in the area come together ! Do you have what it takes to be the best? Compete and show everyone what it takes to become a REAL CHAMPION!",
+    "end-time" : "2018-03-11 14:00",
+    "id" : 9,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Ffifa.png?alt=media&token=f625e628-f749-4532-b113-e000e29c1727",
+    "name" : "FIFA-15",
+    "participants" : {
+      "1CcR5wpRr7ftSqL6OQIpsGouCOe2" : {
+        "name" : "Anshuman Verma",
+        "uid" : "1CcR5wpRr7ftSqL6OQIpsGouCOe2"
+      },
+      "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+        "name" : "NIKHIL PURSWANI",
+        "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+      },
+      "5ycbaINwVqeF1UnPHI43GI32wim1" : {
+        "name" : "divyesh Puri",
+        "uid" : "5ycbaINwVqeF1UnPHI43GI32wim1"
+      },
+      "8zo4jrax8aPdgYRjSTdBs2g7Vll1" : {
+        "name" : "MOHAK KHARE",
+        "uid" : "8zo4jrax8aPdgYRjSTdBs2g7Vll1"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "DceIhsKizjZg6xG7OzBvpcoqyv43" : {
+        "name" : "VIKAS RAJPUT",
+        "uid" : "DceIhsKizjZg6xG7OzBvpcoqyv43"
+      },
+      "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2" : {
+        "name" : "HARSHENDRA SHAH",
+        "uid" : "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "ND0hraodESOxVrXbCTfnC5KtCE73" : {
+        "name" : "SANDEEP DHRUW",
+        "uid" : "ND0hraodESOxVrXbCTfnC5KtCE73"
+      },
+      "T94aqt5095azSUQnkIlpWhxnHwp1" : {
+        "name" : "Dheeraj Agrawal",
+        "uid" : "T94aqt5095azSUQnkIlpWhxnHwp1"
+      },
+      "UfQsAQSFNsbw7qOkQ7g3VEcljIk2" : {
+        "name" : "VAIBHAV SINGH BHADAURIA",
+        "uid" : "UfQsAQSFNsbw7qOkQ7g3VEcljIk2"
+      },
+      "ZADXbrvk1jgGG9rYFu7zeQtNlN73" : {
+        "name" : "TARUN BHARDWAJ",
+        "uid" : "ZADXbrvk1jgGG9rYFu7zeQtNlN73"
+      },
+      "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+        "name" : "Shivvrat Vinay Arya",
+        "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+      },
+      "sijLevxfcghbUYWrwXkAIm6zW9x1" : {
+        "name" : "AVTANS KUMAR",
+        "uid" : "sijLevxfcghbUYWrwXkAIm6zW9x1"
+      },
+      "uYBKRlmprcWvlHLQ1TzCCzRIjog1" : {
+        "name" : "SHREYAS PRAVIN DAWARE",
+        "uid" : "uYBKRlmprcWvlHLQ1TzCCzRIjog1"
+      },
+      "v1PvQckIh3XfZSpSt6lujwL2hM62" : {
+        "name" : "AKASH SHARMA",
+        "uid" : "v1PvQckIh3XfZSpSt6lujwL2hM62"
+      },
+      "wdYX1CMNuWWj6KDOcUq4QwYug8C2" : {
+        "name" : "SPARSH MAURYA",
+        "uid" : "wdYX1CMNuWWj6KDOcUq4QwYug8C2"
+      }
+    },
+    "prize-worth" : "₹2,500",
+    "rules" : [ "Players shall not receive coaching during a tournament match. Communications of any kind, audible or visible, between a player and a coach may be construed as coaching.", "Players are not allowed to plug any devices, other than controllers, into any console. All the required things will be provided by the organisers.", "Competitors may provide their own controller so long as the controller does not provide an unfair competitive advantage to the competitor, does not interfere with the operations of the game or tournament, does not require any special configuration, cabling or adapters to function and is designed to work natively on the console the competitor competes on. The organisers may, at its sole discretion, disallow any controller and require the competitor to use an approved controller.", "Each Player will have 2-3 minutes to configure controls, adjust line-ups and settings in accordance with the rules.", "Players not present at the designated start time for any match will be disqualified, and their opponent shall be granted a 3-0 score.", "Each Player can pause the game up to five times. If a Player pauses the game, it must be to make a tactical change to their squad, which can include substitutions, formation changes, or tactic adjustments.", "All the matches will be of 1v1 type." ],
+    "start-time" : "2018-03-10 10:00",
+    "team-size" : 1,
+    "type" : 0,
+    "venue" : "Lab 9002 and Lab 9003"
+  }, {
+    "contact" : [ {
+      "name" : "Dheeraj Agarwal",
+      "phone" : "9408595308",
+      "role" : "Convenor"
+    }, {
+      "name" : "Varun Bafna",
+      "phone" : "9660222010",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Divya Yadav",
+      "phone" : "9974625049",
+      "role" : "Member"
+    } ],
+    "description" : "Calling all motor heads. If you're the sort of chap who lives life in the fast lane, then the world of NFS:MW would be very familiar domain. A cult classic, this game has gone down in the books as one of the best racing games ever made.",
+    "end-time" : "2018-03-11 14:00",
+    "id" : 10,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Fnfs.png?alt=media&token=27a7cbdd-2b81-4e3b-937e-d0f7e2f6d68c",
+    "name" : "NFS Most Wanted",
+    "participants" : {
+      "3NndAwNIJKTIrukp3EgOTa7Qety1" : {
+        "name" : "SHAH RONIK KRUSANG",
+        "uid" : "3NndAwNIJKTIrukp3EgOTa7Qety1"
+      },
+      "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+        "name" : "NIKHIL PURSWANI",
+        "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+      },
+      "5ycbaINwVqeF1UnPHI43GI32wim1" : {
+        "name" : "divyesh Puri",
+        "uid" : "5ycbaINwVqeF1UnPHI43GI32wim1"
+      },
+      "8zo4jrax8aPdgYRjSTdBs2g7Vll1" : {
+        "name" : "MOHAK KHARE",
+        "uid" : "8zo4jrax8aPdgYRjSTdBs2g7Vll1"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "BlKW0Q0fU4efAIbHyjfrb66qn1o2" : {
+        "name" : "RAJAT DANGI",
+        "uid" : "BlKW0Q0fU4efAIbHyjfrb66qn1o2"
+      },
+      "Ga0hd0gbwMbSEv69DxJXRPqV7mF3" : {
+        "name" : "SUBHASH KALICHARAN",
+        "uid" : "Ga0hd0gbwMbSEv69DxJXRPqV7mF3"
+      },
+      "Hvb5nGCSpmRdRqIYsjBQKziW7tl1" : {
+        "name" : "VARUN BAFNA",
+        "uid" : "Hvb5nGCSpmRdRqIYsjBQKziW7tl1"
+      },
+      "KESg1VbZYJWRA6Se5Nu8Je8U0v02" : {
+        "name" : "PRASHANT SHARMA",
+        "uid" : "KESg1VbZYJWRA6Se5Nu8Je8U0v02"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "ND0hraodESOxVrXbCTfnC5KtCE73" : {
+        "name" : "SANDEEP DHRUW",
+        "uid" : "ND0hraodESOxVrXbCTfnC5KtCE73"
+      },
+      "Oj0eKXnQbPM4GxeoYahUKuRdkt22" : {
+        "name" : "J PREM SHANKER",
+        "uid" : "Oj0eKXnQbPM4GxeoYahUKuRdkt22"
+      },
+      "SHU2j1D8mZeytcTSc9lG6a9RPj23" : {
+        "name" : "KOTHA SAI",
+        "uid" : "SHU2j1D8mZeytcTSc9lG6a9RPj23"
+      },
+      "SRuAvZAtiWcMBNtDSm5ysqf9ykk2" : {
+        "name" : "AYUSH SAXENA",
+        "uid" : "SRuAvZAtiWcMBNtDSm5ysqf9ykk2"
+      },
+      "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+        "name" : "ASHUTOSH KUMAR",
+        "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+      },
+      "TfgYtQTjtGdNvOISuLbCC01hQI12" : {
+        "name" : "PRAKHAR KULSHRESTHA",
+        "uid" : "TfgYtQTjtGdNvOISuLbCC01hQI12"
+      },
+      "UfQsAQSFNsbw7qOkQ7g3VEcljIk2" : {
+        "name" : "VAIBHAV SINGH BHADAURIA",
+        "uid" : "UfQsAQSFNsbw7qOkQ7g3VEcljIk2"
+      },
+      "Viq2i2QoiqToEzS8Rtto1PyITe23" : {
+        "name" : "AKASH AGRAWAL",
+        "uid" : "Viq2i2QoiqToEzS8Rtto1PyITe23"
+      },
+      "W7OcULFBlpRCeOzwiJyxRz0nF082" : {
+        "name" : "Harsh Parihar",
+        "uid" : "W7OcULFBlpRCeOzwiJyxRz0nF082"
+      },
+      "XZx4YzoSFMcsknBGUIQ3TEuAMjh2" : {
+        "name" : "KESHAV PARTH PUROHIT",
+        "uid" : "XZx4YzoSFMcsknBGUIQ3TEuAMjh2"
+      },
+      "YfAm2UrFPmaWvjcHNTJrigwXBdt2" : {
+        "name" : "ABHYUDAI BISHT",
+        "uid" : "YfAm2UrFPmaWvjcHNTJrigwXBdt2"
+      },
+      "Z1Ic58B54OVCM9TkjFhBSsmkaAy1" : {
+        "name" : "DUBBASI S VAMSHI NIVAS",
+        "uid" : "Z1Ic58B54OVCM9TkjFhBSsmkaAy1"
+      },
+      "bQZAF9sMzOTYT69v4yveY1w4NKr2" : {
+        "name" : "NIKHIL SACHAN",
+        "uid" : "bQZAF9sMzOTYT69v4yveY1w4NKr2"
+      },
+      "bdZqNFBYMoPnBLGDE9fYPSi8AOh1" : {
+        "name" : "AYUSH MUDGAL",
+        "uid" : "bdZqNFBYMoPnBLGDE9fYPSi8AOh1"
+      },
+      "dRJrDvff6ZW6Owcny3X5fhIGze92" : {
+        "name" : "Arth Patel",
+        "uid" : "dRJrDvff6ZW6Owcny3X5fhIGze92"
+      },
+      "iqLL3ifLrGR4QJWqYNtrRBoZFUa2" : {
+        "name" : "NIKHIL THOTA",
+        "uid" : "iqLL3ifLrGR4QJWqYNtrRBoZFUa2"
+      },
+      "jrcjJ2kuxZPpILuBELMgrtIgTn92" : {
+        "name" : "KULSHRESHTHA GOYAL",
+        "uid" : "jrcjJ2kuxZPpILuBELMgrtIgTn92"
+      },
+      "lS21RmaNc2Uc4GcfzXL8yZnHsAn1" : {
+        "name" : "MISTRY JAY",
+        "uid" : "lS21RmaNc2Uc4GcfzXL8yZnHsAn1"
+      },
+      "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+        "name" : "Shivvrat Vinay Arya",
+        "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+      },
+      "mNXBFRrX86cXpqyuizpI89ayU732" : {
+        "name" : "Jay Khatri",
+        "uid" : "mNXBFRrX86cXpqyuizpI89ayU732"
+      },
+      "mdNwL1uPTlc488NGPjAWWU23EsS2" : {
+        "name" : "NAVEEN SATYARTHI",
+        "uid" : "mdNwL1uPTlc488NGPjAWWU23EsS2"
+      },
+      "oFnxHzl5T3QxkgDZIu7cMQs1Tsv2" : {
+        "name" : "PRITHA UPADHYAY",
+        "uid" : "oFnxHzl5T3QxkgDZIu7cMQs1Tsv2"
+      },
+      "sH1iM30ml7cblu5zoNGEtjiaqQQ2" : {
+        "name" : "ARPIT MAHESHWARI",
+        "uid" : "sH1iM30ml7cblu5zoNGEtjiaqQQ2"
+      },
+      "sijLevxfcghbUYWrwXkAIm6zW9x1" : {
+        "name" : "AVTANS KUMAR",
+        "uid" : "sijLevxfcghbUYWrwXkAIm6zW9x1"
+      },
+      "sixO6oqVq4UIbeF0rfPuqw2gz9z1" : {
+        "name" : "Aashutosh Rathi",
+        "uid" : "sixO6oqVq4UIbeF0rfPuqw2gz9z1"
+      },
+      "t19RMtA6hjSKnMBqTeAiGSwZ3FE3" : {
+        "name" : "Anil kumar",
+        "uid" : "t19RMtA6hjSKnMBqTeAiGSwZ3FE3"
+      },
+      "v1PvQckIh3XfZSpSt6lujwL2hM62" : {
+        "name" : "AKASH SHARMA",
+        "uid" : "v1PvQckIh3XfZSpSt6lujwL2hM62"
+      },
+      "v9rYssdPUUVlK8sfObHEszRkref2" : {
+        "name" : "av Singh",
+        "uid" : "v9rYssdPUUVlK8sfObHEszRkref2"
+      },
+      "vzESwO1SSQWPoMlOigh3kxLFlC23" : {
+        "name" : "Harsh Savaliya",
+        "uid" : "vzESwO1SSQWPoMlOigh3kxLFlC23"
+      },
+      "zUgN1VnHVDTbtmyvtFSwRXrHe5q2" : {
+        "name" : "Vipul Katara",
+        "uid" : "zUgN1VnHVDTbtmyvtFSwRXrHe5q2"
+      },
+      "zv54Wm0Ftrh5vBjERc55OLJbPZE2" : {
+        "name" : "saii teja",
+        "uid" : "zv54Wm0Ftrh5vBjERc55OLJbPZE2"
+      }
+    },
+    "prize-worth" : "₹2,300",
+    "rules" : [ "The tournament will be knock out. ", "The player who wins their 1st stage match advances to the next stage.", "There will not be any match played for the third spot.", "Race Mode Options: * Nitrous: On * Collision Detection: oN * Performance Matching: Off * Units: Player's own discretion", "Players will be provided with a standard keyboard and mouse but they can bring their own too.", "In any case, organizers decision will be final." ],
+    "start-time" : "2018-03-10 10:00",
+    "team-size" : 1,
+    "type" : 0,
+    "venue" : "Lab 9002 and Lab 9003"
+  }, {
+    "contact" : [ {
+      "name" : "Alizey Jalil",
+      "phone" : "993955376",
+      "role" : "Convenor"
+    }, {
+      "name" : "Kaustubh Dwivedi",
+      "phone" : "8004650959",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Aman Agrahari",
+      "phone" : "9956532591",
+      "role" : "Member"
+    } ],
+    "description" : "Clash Royale is a real-time multiplayer game starring the Royales, your favorite Clash of Clans characters and much, much more",
+    "end-time" : "2018-03-11 14:00",
+    "id" : 11,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Fclash_royale.png?alt=media&token=f1308fe2-b066-4231-b1a2-7718ca957c07",
+    "name" : "Clash Royale",
+    "participants" : {
+      "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+        "name" : "NIKHIL PURSWANI",
+        "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+      },
+      "52OKp7h54Ub7meXFCrVsxDWakGq1" : {
+        "name" : "Prakash Rai",
+        "uid" : "52OKp7h54Ub7meXFCrVsxDWakGq1"
+      },
+      "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13" : {
+        "name" : "OMPRAKASH BHINCHAR",
+        "uid" : "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13"
+      },
+      "5ycbaINwVqeF1UnPHI43GI32wim1" : {
+        "name" : "divyesh Puri",
+        "uid" : "5ycbaINwVqeF1UnPHI43GI32wim1"
+      },
+      "8DcoC1wB76Tz2olPSVvRTY7036f1" : {
+        "name" : "ABHIJEET SINGH RATHORE",
+        "uid" : "8DcoC1wB76Tz2olPSVvRTY7036f1"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "DceIhsKizjZg6xG7OzBvpcoqyv43" : {
+        "name" : "VIKAS RAJPUT",
+        "uid" : "DceIhsKizjZg6xG7OzBvpcoqyv43"
+      },
+      "Ga0hd0gbwMbSEv69DxJXRPqV7mF3" : {
+        "name" : "SUBHASH KALICHARAN",
+        "uid" : "Ga0hd0gbwMbSEv69DxJXRPqV7mF3"
+      },
+      "J1xdJiEmXUOWCp7ZhEORIRO6ykR2" : {
+        "name" : "SHUBHAM BINDAL",
+        "uid" : "J1xdJiEmXUOWCp7ZhEORIRO6ykR2"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "NUy4dVfbJich9hnct4LpDy0G7dl1" : {
+        "name" : "VIKASH KUMAR",
+        "uid" : "NUy4dVfbJich9hnct4LpDy0G7dl1"
+      },
+      "OQU9Uk4Y8ER7cWhGrprjMBZz6vC3" : {
+        "name" : "JINDAM SUCHANDRA",
+        "uid" : "OQU9Uk4Y8ER7cWhGrprjMBZz6vC3"
+      },
+      "QJmIIuzbejThIU75kPXUEzkMwXY2" : {
+        "name" : "Ashu Yadav",
+        "uid" : "QJmIIuzbejThIU75kPXUEzkMwXY2"
+      },
+      "RWvr2e0msigcOka7BqtRSTYXCo63" : {
+        "name" : "SIDDHARTH JAIN",
+        "uid" : "RWvr2e0msigcOka7BqtRSTYXCo63"
+      },
+      "SHU2j1D8mZeytcTSc9lG6a9RPj23" : {
+        "name" : "KOTHA SAI",
+        "uid" : "SHU2j1D8mZeytcTSc9lG6a9RPj23"
+      },
+      "T94aqt5095azSUQnkIlpWhxnHwp1" : {
+        "name" : "Dheeraj Agrawal",
+        "uid" : "T94aqt5095azSUQnkIlpWhxnHwp1"
+      },
+      "TfgYtQTjtGdNvOISuLbCC01hQI12" : {
+        "name" : "PRAKHAR KULSHRESTHA",
+        "uid" : "TfgYtQTjtGdNvOISuLbCC01hQI12"
+      },
+      "UfQsAQSFNsbw7qOkQ7g3VEcljIk2" : {
+        "name" : "VAIBHAV SINGH BHADAURIA",
+        "uid" : "UfQsAQSFNsbw7qOkQ7g3VEcljIk2"
+      },
+      "VgP5XV7WL2QtGcs7sDOBOA2Iyus2" : {
+        "name" : "ADITYA KASHYAP",
+        "uid" : "VgP5XV7WL2QtGcs7sDOBOA2Iyus2"
+      },
+      "Viq2i2QoiqToEzS8Rtto1PyITe23" : {
+        "name" : "AKASH AGRAWAL",
+        "uid" : "Viq2i2QoiqToEzS8Rtto1PyITe23"
+      },
+      "XBiYc7puu5MxyFOALdbxRR1Hnzz1" : {
+        "name" : "HARSHAVARDHAN DYAVATH",
+        "uid" : "XBiYc7puu5MxyFOALdbxRR1Hnzz1"
+      },
+      "Z1Ic58B54OVCM9TkjFhBSsmkaAy1" : {
+        "name" : "DUBBASI S VAMSHI NIVAS",
+        "uid" : "Z1Ic58B54OVCM9TkjFhBSsmkaAy1"
+      },
+      "ZADXbrvk1jgGG9rYFu7zeQtNlN73" : {
+        "name" : "TARUN BHARDWAJ",
+        "uid" : "ZADXbrvk1jgGG9rYFu7zeQtNlN73"
+      },
+      "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2" : {
+        "name" : "RAVI VARSHNEY",
+        "uid" : "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2"
+      },
+      "gAYAGNcwZ4RjdxelxhdZ8gkfp5s2" : {
+        "name" : "Mrudul Chauhan",
+        "uid" : "gAYAGNcwZ4RjdxelxhdZ8gkfp5s2"
+      },
+      "iqLL3ifLrGR4QJWqYNtrRBoZFUa2" : {
+        "name" : "NIKHIL THOTA",
+        "uid" : "iqLL3ifLrGR4QJWqYNtrRBoZFUa2"
+      },
+      "k8MT9y3P4ATzRkZwMCLhoBS3QLo1" : {
+        "name" : "BAGADE RUSHIKESH DNYANESHWAR",
+        "uid" : "k8MT9y3P4ATzRkZwMCLhoBS3QLo1"
+      },
+      "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+        "name" : "Shivvrat Vinay Arya",
+        "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+      },
+      "sH1iM30ml7cblu5zoNGEtjiaqQQ2" : {
+        "name" : "ARPIT MAHESHWARI",
+        "uid" : "sH1iM30ml7cblu5zoNGEtjiaqQQ2"
+      },
+      "t19RMtA6hjSKnMBqTeAiGSwZ3FE3" : {
+        "name" : "Anil kumar",
+        "uid" : "t19RMtA6hjSKnMBqTeAiGSwZ3FE3"
+      },
+      "uYBKRlmprcWvlHLQ1TzCCzRIjog1" : {
+        "name" : "SHREYAS PRAVIN DAWARE",
+        "uid" : "uYBKRlmprcWvlHLQ1TzCCzRIjog1"
+      },
+      "v1PvQckIh3XfZSpSt6lujwL2hM62" : {
+        "name" : "AKASH SHARMA",
+        "uid" : "v1PvQckIh3XfZSpSt6lujwL2hM62"
+      },
+      "zv54Wm0Ftrh5vBjERc55OLJbPZE2" : {
+        "name" : "saii teja",
+        "uid" : "zv54Wm0Ftrh5vBjERc55OLJbPZE2"
+      }
+    },
+    "prize-worth" : "₹1,200",
+    "rules" : [ "The tournament will be played under the current Clash Royale tournament level caps.", "Any card released fourteen (14) days before the first day of the tournament won't be allowed.", "The tournament will use the standard in-game \"Tournament\" settings for each game: King level cap: 9, Common level cap: 9, Rare level cap: 7, Epic level cap: 4, Legendary level cap: 1, Overtime length: 3min", "An official match may only be started and played when a tournament referee has given the signal to start it. Any match started without approval of a referee will be considered as a non-official match.", "If a player disconnects in the middle of a battle at any time, the outcome of the battle will stand (i.e: if you reconnect and lose, you lose, if you reconnect and win, you win). If a player suffers a disconnection or more, both players can agree to replay the game, or not.", "A best of three match is played in two or three games and is used during the four first round of the loser bracket play-off stage of the tournament.", "In case of a draw, the player with the highest total hit points left on his buildings, win.", "In case of a perfect draw, same total hit points on both sides, the match has to be played again with the exact same decks.", "A best of five match is played in three, four or five games and is used during the play-off stage of the tournament.", "In case of a draw, the player with the highest total hit points left on his buildings, win. In case of a perfect draw, same total hit points on both sides, the match has to be played again with the exact same decks." ],
+    "start-time" : "2018-03-10 10:00",
+    "team-size" : 1,
+    "type" : 0,
+    "venue" : "Lab 9002 and Lab 9003"
+  }, {
+    "contact" : [ {
+      "name" : "Ayush Saxena",
+      "phone" : "7405162148",
+      "role" : "Convenor"
+    }, {
+      "name" : "Avtans Kumar",
+      "phone" : "9873087896",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Shivam Nigam",
+      "phone" : "7355575417",
+      "role" : "Member"
+    } ],
+    "description" : "Do you kill your time killing militants on Mini Militia? Now we bring you platform to show off your Mini Militia skills. All the big daddy's, killers, A.T.O.M and many more, challenge the best in Cerebro 2k18",
+    "end-time" : "2018-03-11 14:00",
+    "id" : 12,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Fmini_militia.png?alt=media&token=45ea3ae8-7cad-4c37-b66c-ee00300492a1",
+    "name" : "Mini Militia",
+    "participants" : {
+      "3NndAwNIJKTIrukp3EgOTa7Qety1" : {
+        "name" : "SHAH RONIK KRUSANG",
+        "uid" : "3NndAwNIJKTIrukp3EgOTa7Qety1"
+      },
+      "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+        "name" : "NIKHIL PURSWANI",
+        "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+      },
+      "52OKp7h54Ub7meXFCrVsxDWakGq1" : {
+        "name" : "Prakash Rai",
+        "uid" : "52OKp7h54Ub7meXFCrVsxDWakGq1"
+      },
+      "7FvE4KKIyQXm7U7dj1WYifPVHwg1" : {
+        "name" : "Kaustubh Dwivedi",
+        "uid" : "7FvE4KKIyQXm7U7dj1WYifPVHwg1"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "XGlfZ8uvRiPWCbfGzbhi8uhuP9H2" : {
+        "name" : "Jay Patel",
+        "uid" : "XGlfZ8uvRiPWCbfGzbhi8uhuP9H2"
+      },
+      "XZx4YzoSFMcsknBGUIQ3TEuAMjh2" : {
+        "name" : "KESHAV PARTH PUROHIT",
+        "uid" : "XZx4YzoSFMcsknBGUIQ3TEuAMjh2"
+      },
+      "bdZqNFBYMoPnBLGDE9fYPSi8AOh1" : {
+        "name" : "AYUSH MUDGAL",
+        "uid" : "bdZqNFBYMoPnBLGDE9fYPSi8AOh1"
+      },
+      "iwwEZcQqjEfEBvQDso2eBXc9fC72" : {
+        "name" : "SHUBHAM SINGH",
+        "uid" : "iwwEZcQqjEfEBvQDso2eBXc9fC72"
+      },
+      "tbSXj5hCSgY94EilRKzeFRFWVnU2" : {
+        "name" : "ROHAN DHOOT",
+        "uid" : "tbSXj5hCSgY94EilRKzeFRFWVnU2"
+      },
+      "v56Np4KKdtYLuUdB8QWKiMEr5ww2" : {
+        "name" : "JALLA MANIKANTA SWAMY",
+        "uid" : "v56Np4KKdtYLuUdB8QWKiMEr5ww2"
+      },
+      "v9rYssdPUUVlK8sfObHEszRkref2" : {
+        "name" : "av Singh",
+        "uid" : "v9rYssdPUUVlK8sfObHEszRkref2"
+      }
+    },
+    "prize-worth" : "₹3,000",
+    "rules" : [ "Duration of the game is 10 minutes.", "Each battle will be of 10 players.", "your current game in the phone will be uninstalled and game provided by us will be installed there only before starting of the game. 4.Map for match will be decided by voting('Outpost' , 'Catacombs ', ' so long' or ' high tower' map are given.)", "In case of voilation of rules,The Organiser has the right to disqualify any registered team from the tournament.", "Game Mode: Death Match" ],
+    "start-time" : "2018-03-10 10:00",
+    "team-size" : 5,
+    "type" : 0,
+    "venue" : "Lab 9002 and Lab 9003"
+  }, {
+    "contact" : [ {
+      "name" : "Tanmay Khandait",
+      "phone" : "9325479574",
+      "role" : "Convenor"
+    }, {
+      "name" : "Mohak Khare",
+      "phone" : "7905146158",
+      "role" : "Co-Convenor"
+    }, {
+      "name" : "Varnika Dasgupta",
+      "phone" : "-",
+      "role" : "Member"
+    } ],
+    "description" : "Hired is an interesting competition that simulates the actual job interview scenario.The event takes place in three phases which will test the reasoning/logical skills and overall personality of the participant. Come participate if you think you have what it takes to get hired!",
+    "end-time" : "2018-03-11 12:30",
+    "id" : 13,
+    "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/icons%2Fjobless.png?alt=media&token=be28d195-4e1e-4442-8246-dea71aac0178",
+    "name" : "Hired!",
+    "participants" : {
+      "0xOYNrrpcPdsIaRBPMlpS5I2FJO2" : {
+        "name" : "AMAN YADAV",
+        "uid" : "0xOYNrrpcPdsIaRBPMlpS5I2FJO2"
+      },
+      "2KGr4usgY4hu6Po7KLQOzDmUuyB3" : {
+        "name" : "suresh upadhyay",
+        "uid" : "2KGr4usgY4hu6Po7KLQOzDmUuyB3"
+      },
+      "2tStDY7OhRS2y5FCbtTZHQHN7Pz2" : {
+        "name" : "PRAKASH RAI",
+        "uid" : "2tStDY7OhRS2y5FCbtTZHQHN7Pz2"
+      },
+      "4jNZOLfj8ohDRtWELxTP9WGlxuV2" : {
+        "name" : "anjansrivathsav g",
+        "uid" : "4jNZOLfj8ohDRtWELxTP9WGlxuV2"
+      },
+      "52OKp7h54Ub7meXFCrVsxDWakGq1" : {
+        "name" : "Prakash Rai",
+        "uid" : "52OKp7h54Ub7meXFCrVsxDWakGq1"
+      },
+      "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13" : {
+        "name" : "OMPRAKASH BHINCHAR",
+        "uid" : "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13"
+      },
+      "8DcoC1wB76Tz2olPSVvRTY7036f1" : {
+        "name" : "ABHIJEET SINGH RATHORE",
+        "uid" : "8DcoC1wB76Tz2olPSVvRTY7036f1"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "B4njDQfgI6gmgSbQmuB6N3f7iRC2" : {
+        "name" : "maneesh kumar",
+        "uid" : "B4njDQfgI6gmgSbQmuB6N3f7iRC2"
+      },
+      "BzFo1whYCDgJjKxQULM6TTx3r9G2" : {
+        "name" : "PRIYANSHU VERMA",
+        "uid" : "BzFo1whYCDgJjKxQULM6TTx3r9G2"
+      },
+      "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2" : {
+        "name" : "HARSHENDRA SHAH",
+        "uid" : "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2"
+      },
+      "F7TJvSLG0tX0ujtm93k0UHqTcg32" : {
+        "name" : "CHANCHAL SAINI",
+        "uid" : "F7TJvSLG0tX0ujtm93k0UHqTcg32"
+      },
+      "HyBQVgwl7If4NvA2jcC5jYPNmS53" : {
+        "name" : "PREETI YADAV",
+        "uid" : "HyBQVgwl7If4NvA2jcC5jYPNmS53"
+      },
+      "J1xdJiEmXUOWCp7ZhEORIRO6ykR2" : {
+        "name" : "SHUBHAM BINDAL",
+        "uid" : "J1xdJiEmXUOWCp7ZhEORIRO6ykR2"
+      },
+      "JSQvutoXr1QkguPa7oDxWMgLkVW2" : {
+        "name" : "NIRANJAN KUMAR CHOUDHARY",
+        "uid" : "JSQvutoXr1QkguPa7oDxWMgLkVW2"
+      },
+      "JekzQt4qN0Xx4rVIhwNUu8Rj9Sz2" : {
+        "name" : "RACHANA SOMA",
+        "uid" : "JekzQt4qN0Xx4rVIhwNUu8Rj9Sz2"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "LMWZWJr7IUOU9CmigGFKMO40ZDn1" : {
+        "name" : "ANJALI PRIYA",
+        "uid" : "LMWZWJr7IUOU9CmigGFKMO40ZDn1"
+      },
+      "LQSUYGRwUHWVVfKn9kSpuPymNR52" : {
+        "name" : "VAAIBHAVI SINGH",
+        "uid" : "LQSUYGRwUHWVVfKn9kSpuPymNR52"
+      },
+      "M744fYYjyWbi7PI3PFNSDd3xdnp1" : {
+        "name" : "Neeraj Rajpurohit",
+        "uid" : "M744fYYjyWbi7PI3PFNSDd3xdnp1"
+      },
+      "MkC7KzbtyYSvojDOgbBP0n70qDE2" : {
+        "name" : "HEET SANKESARA",
+        "uid" : "MkC7KzbtyYSvojDOgbBP0n70qDE2"
+      },
+      "Oj0eKXnQbPM4GxeoYahUKuRdkt22" : {
+        "name" : "J PREM SHANKER",
+        "uid" : "Oj0eKXnQbPM4GxeoYahUKuRdkt22"
+      },
+      "Po9w20JRXJgcXWRfakTczpbSQPa2" : {
+        "name" : "MAYANK PATHELA",
+        "uid" : "Po9w20JRXJgcXWRfakTczpbSQPa2"
+      },
+      "RWvr2e0msigcOka7BqtRSTYXCo63" : {
+        "name" : "SIDDHARTH JAIN",
+        "uid" : "RWvr2e0msigcOka7BqtRSTYXCo63"
+      },
+      "S2tiepLsotMvSaoEZot83eGsQ4s2" : {
+        "name" : "ASHUTOSH KUSHWAHA",
+        "uid" : "S2tiepLsotMvSaoEZot83eGsQ4s2"
+      },
+      "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+        "name" : "ASHUTOSH KUMAR",
+        "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+      },
+      "T94aqt5095azSUQnkIlpWhxnHwp1" : {
+        "name" : "Dheeraj Agrawal",
+        "uid" : "T94aqt5095azSUQnkIlpWhxnHwp1"
+      },
+      "Viq2i2QoiqToEzS8Rtto1PyITe23" : {
+        "name" : "AKASH AGRAWAL",
+        "uid" : "Viq2i2QoiqToEzS8Rtto1PyITe23"
+      },
+      "VrN1klfVsKYoAF9IwY7CxCdPL712" : {
+        "name" : "Smit Rajput",
+        "uid" : "VrN1klfVsKYoAF9IwY7CxCdPL712"
+      },
+      "X8IdPMyQuBWibbVtgOCx0lD6NLi2" : {
+        "name" : "PALAK AMBADE",
+        "uid" : "X8IdPMyQuBWibbVtgOCx0lD6NLi2"
+      },
+      "XXAd13KgAwNdae45wkyiDFdz8dm2" : {
+        "name" : "Saurabh Pandit",
+        "uid" : "XXAd13KgAwNdae45wkyiDFdz8dm2"
+      },
+      "d0xuipilk2VDEhmEqhmq72SshS32" : {
+        "name" : "VASHIST HEGDE",
+        "uid" : "d0xuipilk2VDEhmEqhmq72SshS32"
+      },
+      "fOL5EX9XOuU96MMh6SLH4APRfDp1" : {
+        "name" : "ISHITA DAS",
+        "uid" : "fOL5EX9XOuU96MMh6SLH4APRfDp1"
+      },
+      "fq1BYWcl0JdIgx3DSJWwy1jD3xI3" : {
+        "name" : "ROHAN SINGH",
+        "uid" : "fq1BYWcl0JdIgx3DSJWwy1jD3xI3"
+      },
+      "g1cumJTNOHZCf9LHGhWtZvQ7bAy2" : {
+        "name" : "ANUSHA GUPTA",
+        "uid" : "g1cumJTNOHZCf9LHGhWtZvQ7bAy2"
+      },
+      "iX2PiCyW5vVv4FHbEn2LLxpYjf93" : {
+        "name" : "VAISHNAV VAIDEHI",
+        "uid" : "iX2PiCyW5vVv4FHbEn2LLxpYjf93"
+      },
+      "iqLL3ifLrGR4QJWqYNtrRBoZFUa2" : {
+        "name" : "NIKHIL THOTA",
+        "uid" : "iqLL3ifLrGR4QJWqYNtrRBoZFUa2"
+      },
+      "jFtcljmpM0hCdwIY6KKj9cWaLSI2" : {
+        "name" : "VISHAL KATIYAR",
+        "uid" : "jFtcljmpM0hCdwIY6KKj9cWaLSI2"
+      },
+      "jrcjJ2kuxZPpILuBELMgrtIgTn92" : {
+        "name" : "KULSHRESHTHA GOYAL",
+        "uid" : "jrcjJ2kuxZPpILuBELMgrtIgTn92"
+      },
+      "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+        "name" : "Shivvrat Vinay Arya",
+        "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+      },
+      "migswcvXT5gOFjYgEgaO36mCUXx1" : {
+        "name" : "KIRTIKA SINGHAL",
+        "uid" : "migswcvXT5gOFjYgEgaO36mCUXx1"
+      },
+      "oFnxHzl5T3QxkgDZIu7cMQs1Tsv2" : {
+        "name" : "PRITHA UPADHYAY",
+        "uid" : "oFnxHzl5T3QxkgDZIu7cMQs1Tsv2"
+      },
+      "qzkfCpl8qURPGojny6QcFn8guQH2" : {
+        "name" : "SAHADEV INDLIA",
+        "uid" : "qzkfCpl8qURPGojny6QcFn8guQH2"
+      },
+      "uYBKRlmprcWvlHLQ1TzCCzRIjog1" : {
+        "name" : "SHREYAS PRAVIN DAWARE",
+        "uid" : "uYBKRlmprcWvlHLQ1TzCCzRIjog1"
+      },
+      "xCPFuQwqCJVOFf1d8fjo8O8s9hj1" : {
+        "name" : "POOJA GURJAR",
+        "uid" : "xCPFuQwqCJVOFf1d8fjo8O8s9hj1"
+      },
+      "xbQslsJukCgSPXfWbH75ZE6sNS93" : {
+        "name" : "Aangi Shah",
+        "uid" : "xbQslsJukCgSPXfWbH75ZE6sNS93"
+      },
+      "zv54Wm0Ftrh5vBjERc55OLJbPZE2" : {
+        "name" : "saii teja",
+        "uid" : "zv54Wm0Ftrh5vBjERc55OLJbPZE2"
+      }
+    },
+    "prize-worth" : "₹9,500",
+    "rules" : [ "There will be three rounds: <br>- Aptitude Test Round on 10/03/2018 from 1000 hrs to 1100 hrs. <br> - Group Discussion Round on 10/03/2018 from 1700 hrs to 1900 hrs. <br> -‎PI round on 11/03/2018 from 1030 hrs to 1230 hrs", "The First round will test General Aptitude of the students.", "All the instructions regarding the test will be given 10 minutes prior to the start of aptitude test.", "Keeping in view the time-constraints, we request all the participants to be on time. Latecomers won't be allowed to enter the hall.", "The results will be announced on 10/03/2018 by 1200 hrs. All the qualified participants will be notified via eMail.", "Tentatively, 40% of the participants from the first round will qualify for the second round of group discussion(can vary depending upon the participation).", "All the qualified participants would be notified about the GD rounds and the topics at least 90 mins in advance.", "There will tentatively be 5 group discussion sessions, each of an estimated of 20mins.", "The criterions for judging  the GD round will be the following:            Initiative /Aggressiveness,            Content/Style,             TeamSpirit,             Body Language,             Common Skills (Verbal),             Closure/Summary", "The participants qualifying for the final round of Hired will be notified via eMail on 10/03/2018.", "‎The Shortlisted candidates will be provided their job portfolio well in advance before the PI round begins.", "The PI will tentatively last for a duration of 10/15 minutes each ", "All the participants are requested to be present at the venue at least 10 minutes prior to the starting of the event.", "‎Pen and Paper for the events will be provided. You might however bring the required stationary.", "The participants are requested to maintain the silence and decorum at all times.", "The decision of the Judge will be final in case of any disputes or conflicts.", "‎The Event Convenor has the right to debar any participant from the event." ],
+    "start-time" : "2018-03-10 10:00",
+    "team-size" : 1,
+    "type" : 0,
+    "venue" : "Lab 9002 and Lab 9003"
+  }, {
+    "contact" : [ {
+      "name" : "Tanmay Khandait",
+      "phone" : "9325479574",
+      "role" : "Convenor"
+    }, {
+      "name" : "Ujwal Tewari",
+      "phone" : "9455555683",
+      "role" : "Convenor"
+    }, {
+      "name" : "Khilan Ravani",
+      "phone" : "9428217561",
+      "role" : "Co-Convenor"
+    } ],
+    "description" : "Prepare to witness the epitome of Robo science and and technology in this glorious event namely Robo Showcase where people shall bring to the battleground the best they can create or have created to compete for the Title of the Supreme. So Tech Savvy people, brace yourselves for the exquisite Robo Showcase.",
+    "end-time" : "2018-03-10 17:00",
+    "id" : 14,
+    "name" : "Robo Showcase",
+    "participants" : {
+      "2tStDY7OhRS2y5FCbtTZHQHN7Pz2" : {
+        "name" : "PRAKASH RAI",
+        "uid" : "2tStDY7OhRS2y5FCbtTZHQHN7Pz2"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2" : {
+        "name" : "HARSHENDRA SHAH",
+        "uid" : "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2"
+      },
+      "LMWZWJr7IUOU9CmigGFKMO40ZDn1" : {
+        "name" : "ANJALI PRIYA",
+        "uid" : "LMWZWJr7IUOU9CmigGFKMO40ZDn1"
+      },
+      "MkC7KzbtyYSvojDOgbBP0n70qDE2" : {
+        "name" : "HEET SANKESARA",
+        "uid" : "MkC7KzbtyYSvojDOgbBP0n70qDE2"
+      },
+      "Oj0eKXnQbPM4GxeoYahUKuRdkt22" : {
+        "name" : "J PREM SHANKER",
+        "uid" : "Oj0eKXnQbPM4GxeoYahUKuRdkt22"
+      },
+      "dTwbnqqOfaX6a3mmO2JOU7laJTn2" : {
+        "name" : "PIYUSH SIKARWAL",
+        "uid" : "dTwbnqqOfaX6a3mmO2JOU7laJTn2"
+      },
+      "hojwzcs24IWNjZeMgSvA0pyZAN42" : {
+        "name" : "SHIVAM SINGH",
+        "uid" : "hojwzcs24IWNjZeMgSvA0pyZAN42"
+      },
+      "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+        "name" : "Shivvrat Vinay Arya",
+        "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+      }
+    },
+    "prize-worth" : "₹5,000",
+    "rules" : [ "In case of discrepancy, the decision of the Judges and the organizers will be final.", "Participants have to bring their own Robots(any kind) to showcase.", "Participants have to report to the event co-ordinators at least 20 min before start of event", null, "Participants can bring any kind of Robots they want to showcase.", "Space will be alloted only to those participants who will report to the organizers in time." ],
+    "start-time" : "2018-03-10 14:00",
+    "team-size" : "1 to 5",
+    "type" : 0,
+    "venue" : "Common Area on Ground Floor"
+  }, null, {
+    "contact" : [ {
+      "name" : "Tanmay Khandait",
+      "phone" : "9325479574",
+      "role" : "Convenor"
+    }, {
+      "name" : "Mohak Khare",
+      "phone" : "8853782217",
+      "role" : "Co-Convenor"
+    } ],
+    "description" : "Amidst the brainstorm of ideas only the best shall remain till the end to achieve the glorious title of the best among the best. So do you have a tenacious, influential, braggadocious or simply a better idea which you think has the mendacity to be the best , then this is event for you.",
+    "end-time" : "2018-03-10 10:00",
+    "id" : 16,
+    "name" : "Ideathon",
+    "participants" : {
+      "52OKp7h54Ub7meXFCrVsxDWakGq1" : {
+        "name" : "Prakash Rai",
+        "uid" : "52OKp7h54Ub7meXFCrVsxDWakGq1"
+      },
+      "7FvE4KKIyQXm7U7dj1WYifPVHwg1" : {
+        "name" : "Kaustubh Dwivedi",
+        "uid" : "7FvE4KKIyQXm7U7dj1WYifPVHwg1"
+      },
+      "9JVBJeZDU5Nwscshh9FBR4JioG73" : {
+        "name" : "DIPANSH KHANDELWAL",
+        "uid" : "9JVBJeZDU5Nwscshh9FBR4JioG73"
+      },
+      "B4njDQfgI6gmgSbQmuB6N3f7iRC2" : {
+        "name" : "maneesh kumar",
+        "uid" : "B4njDQfgI6gmgSbQmuB6N3f7iRC2"
+      },
+      "BpcTq4YnTmQi0K6PUulIiSrMRni1" : {
+        "name" : "MONIKA PHADNIS",
+        "uid" : "BpcTq4YnTmQi0K6PUulIiSrMRni1"
+      },
+      "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2" : {
+        "name" : "HARSHENDRA SHAH",
+        "uid" : "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2"
+      },
+      "GLL9T61HOIRzq7kMsncwnHwziap2" : {
+        "name" : "SUNNY PRAKASH",
+        "uid" : "GLL9T61HOIRzq7kMsncwnHwziap2"
+      },
+      "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+        "name" : "Ujwal Tewari",
+        "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+      },
+      "LQSUYGRwUHWVVfKn9kSpuPymNR52" : {
+        "name" : "VAAIBHAVI SINGH",
+        "uid" : "LQSUYGRwUHWVVfKn9kSpuPymNR52"
+      },
+      "MkC7KzbtyYSvojDOgbBP0n70qDE2" : {
+        "name" : "HEET SANKESARA",
+        "uid" : "MkC7KzbtyYSvojDOgbBP0n70qDE2"
+      },
+      "VrN1klfVsKYoAF9IwY7CxCdPL712" : {
+        "name" : "Smit Rajput",
+        "uid" : "VrN1klfVsKYoAF9IwY7CxCdPL712"
+      },
+      "fOL5EX9XOuU96MMh6SLH4APRfDp1" : {
+        "name" : "ISHITA DAS",
+        "uid" : "fOL5EX9XOuU96MMh6SLH4APRfDp1"
+      },
+      "sixO6oqVq4UIbeF0rfPuqw2gz9z1" : {
+        "name" : "Aashutosh Rathi",
+        "uid" : "sixO6oqVq4UIbeF0rfPuqw2gz9z1"
+      }
+    },
+    "prize-worth" : "₹3,000",
+    "rules" : [ "You have to pitch your startup ideas for the betterment of society.", "You have to submit your proposal (at most 1000 words) before 10th March, 2018 10AM", "Your proposals will be judged by respective judges and their call be final.", "No late entries will be entertained. ", "Participants have to submit their proposals to cerebro.iiitv@gmail.com", "Make sure along with your proposal you submit your Team name along with Phone Number and email-id of the Team Leader." ],
+    "start-time" : "2018-03-05 12:00",
+    "team-size" : "2 to 4",
+    "type" : 0,
+    "venue" : "N/A"
+  } ],
+  "team" : [ {
+    "members" : [ {
+      "img" : "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAMAAQDGAAwAAQAAAAAAAA1RAAAAJDUyMWRmMDY4LTRmYzEtNDViNy1iODNmLWRjODQxNTRkMzY3ZQ.jpg",
+      "links" : {
+        "facebook" : "https://www.facebook.com/neelansh.sahai.3",
+        "github" : "https://github.com/neelanshsahai",
+        "linkedin" : "https://www.linkedin.com/in/neelansh-sahai-555a693b/",
+        "twitter" : "https://twitter.com/NeelanshSahai"
+      },
+      "name" : "Neelansh Sahai"
+    } ],
+    "name" : "President"
+  }, {
+    "members" : [ {
+      "img" : "https://pbs.twimg.com/profile_images/940141703293308928/3Mm3bnm9.jpg",
+      "links" : {
+        "facebook" : "https://www.facebook.com/monty.shadi",
+        "github" : "http://github.com/Monal5031/",
+        "linkedin" : "https://www.linkedin.com/in/monalshadi",
+        "twitter" : "https://twitter.com/monalshadi"
+      },
+      "name" : "Monal Shadi"
+    }, {
+      "img" : "https://avatars1.githubusercontent.com/u/21199234?s=400&v=4",
+      "links" : {
+        "facebook" : "https://www.facebook.com/aashutoshrathi",
+        "github" : "https://www.github.com/aashutoshrathi",
+        "linkedin" : "https://www.linkedin.com/in/aashutoshrathi",
+        "twitter" : "https://twitter.com/AashutoshRathi"
+      },
+      "name" : "Aashutosh Rathi"
+    } ],
+    "name" : "Vice-President"
+  }, {
+    "members" : [ {
+      "img" : "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAtiAAAAJDk1MjkwMTUwLWU1ZGUtNDk2Ni05Y2ExLTFiNGNlMzA2MTZiNw.jpg",
+      "links" : {
+        "facebook" : "",
+        "github" : "",
+        "linkedin" : "https://www.linkedin.com/in/tanmay-khandait-b7140a117",
+        "twitter" : ""
+      },
+      "name" : "Tanmay Khandait"
+    }, {
+      "img" : "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAo9AAAAJDFhM2U1NjMxLWJlNWYtNGI3NS04MjIzLWRkMjUzOWNjMzkxMQ.jpg",
+      "links" : {
+        "facebook" : "https://www.facebook.com/ujwal.tewari.7",
+        "github" : "https://github.com/Ujwal2910",
+        "linkedin" : "https://www.linkedin.com/in/ujwal-tewari-cyberezio/",
+        "twitter" : "https://twitter.com/UjwalTewari"
+      },
+      "name" : "Ujwal Tewari"
+    }, {
+      "img" : "https://cdn-images-1.medium.com/max/1200/0*recFXcBnIRUwlETW.",
+      "links" : {
+        "facebook" : "https://facebook.com/abhishekkatara123",
+        "github" : "https://github.com/AbhishekKatara",
+        "linkedin" : "https://www.linkedin.com/in/abhishekkatara-817537113",
+        "twitter" : "https://twitter.com/katara_abhi"
+      },
+      "name" : "Abhishek Katara"
+    }, {
+      "img" : "https://qph.ec.quoracdn.net/main-thumb-102839260-200-giallxusoxafiryfmqydheljnnuulppl.jpeg",
+      "links" : {
+        "facebook" : "https://www.facebook.com/mohak.khare.79",
+        "github" : "https://github.com/violentdelight",
+        "linkedin" : "",
+        "twitter" : "https://twitter.com/mohak_khare?s=08"
+      },
+      "name" : "Mohak Khare"
+    }, {
+      "img" : "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAtNAAAAJDA4NjI1YmZiLWIwZTktNDdmMS1hOTdhLTUzYzlmMmMzNDAyOQ.jpg",
+      "links" : {
+        "facebook" : "",
+        "github" : "",
+        "linkedin" : "",
+        "twitter" : ""
+      },
+      "name" : "Vikas Rajput"
+    }, {
+      "img" : "https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAuiAAAAJGZhMTQ5ZDQ1LThjOGYtNGE3Yy1hNzNmLWM4YjM3NGJkYTllOQ.jpg",
+      "links" : {
+        "facebook" : "",
+        "github" : "",
+        "linkedin" : "",
+        "twitter" : ""
+      },
+      "name" : "Varun Bafna"
+    } ],
+    "name" : "Core Team"
+  }, {
+    "members" : [ {
+      "img" : "https://avatars1.githubusercontent.com/u/9111119?s=460&v=4",
+      "links" : {
+        "facebook" : "https://www.facebook.com/ansarimofid",
+        "github" : "https://github.com/ansarimofid",
+        "linkedin" : "https://www.linkedin.com/in/ansarimofid/",
+        "twitter" : "https://twitter.com/ansarimofid_"
+      },
+      "name" : "Mofid Ansari"
+    }, {
+      "img" : "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16143297_1107628656025749_486835557601201551_n.jpg?oh=702201e2aff749b19ed58f101a899ead&oe=5B4A7736",
+      "links" : {
+        "facebook" : "https://www.facebook.com/sunny.prakash.96",
+        "github" : "",
+        "linkedin" : "",
+        "twitter" : ""
+      },
+      "name" : "Sunny Prakash"
+    }, {
+      "img" : "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-1/c0.40.160.160/p160x160/25550102_978301155642703_5659644301809227267_n.jpg?oh=dd3a952b9bdd1a19aff27736237692ae&oe=5B048774",
+      "links" : {
+        "facebook" : "https://www.facebook.com/joshuajosh1999",
+        "github" : "https://github.com/JoshuaPoddoku",
+        "linkedin" : "www.linkedin.com/in/joshua-poddoku",
+        "twitter" : "https://twitter.com/joshua_poddoku"
+      },
+      "name" : "Joshua Josh"
+    }, {
+      "img" : "https://scontent-bom1-1.cdninstagram.com/vp/ac37f8fc24e91157b284a417659a7164/5B48C903/t51.2885-15/e35/14719692_354830531520093_6540730391416799232_n.jpg",
+      "links" : {
+        "facebook" : "https://www.facebook.com/anshulsinghdawar",
+        "github" : "https://github.com/anshuldawar",
+        "linkedin" : "https://www.linkedin.com/in/anshuldawar/",
+        "twitter" : "https://twitter.com/anshuldawar1995"
+      },
+      "name" : "Anshul Dawar"
+    } ],
+    "name" : "Design Team"
+  }, {
+    "members" : [ {
+      "img" : "https://pbs.twimg.com/profile_images/950061525737259008/diSwoT_A_400x400.jpg",
+      "links" : {
+        "facebook" : "",
+        "github" : "https://github.com/singhpratyush/",
+        "linkedin" : "https://www.linkedin.com/in/singh-pratyush/",
+        "twitter" : "https://twitter.com/singhpratyush_"
+      },
+      "name" : "Pratyush Singh"
+    }, {
+      "img" : "https://avatars1.githubusercontent.com/u/9111119?s=460&v=4",
+      "links" : {
+        "facebook" : "https://www.facebook.com/ansarimofid",
+        "github" : "https://github.com/ansarimofid",
+        "linkedin" : "https://www.linkedin.com/in/ansarimofid/",
+        "twitter" : "https://twitter.com/ansarimofid_"
+      },
+      "name" : "Mofid Ansari"
+    }, {
+      "img" : "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-1/p160x160/25353977_1595437977217281_6174677355219331200_n.jpg?oh=5b3663ec2b9badecf4d05e01c2c6c585&oe=5B149FC7",
+      "links" : {
+        "facebook" : "https://www.facebook.com/anshumanv12",
+        "github" : "https://github.com/anshumanv",
+        "linkedin" : "https://www.linkedin.com/in/anshumanv12",
+        "twitter" : "https://twitter.com/Anshumaniac12"
+      },
+      "name" : "Anshuman Verma"
+    }, {
+      "img" : "https://firebasestorage.googleapis.com/v0/b/cerebro-2018-f1052.appspot.com/o/IMG_20180228_230909.jpg?alt=media&token=4faedd47-4396-468c-a47b-8ca8c85b8c39",
+      "links" : {
+        "facebook" : "https://www.facebook.com/DivyeshPuri",
+        "github" : "https://github.com/Lucifer24",
+        "linkedin" : "www.linkedin.com/in/divyesh-puri-8a0083119",
+        "twitter" : ""
+      },
+      "name" : "Divyesh Puri"
+    }, {
+      "img" : "https://pbs.twimg.com/profile_images/940141703293308928/3Mm3bnm9.jpg",
+      "links" : {
+        "facebook" : "https://www.facebook.com/monty.shadi",
+        "github" : "https://github.com/Monal5031",
+        "linkedin" : "https://www.linkedin.com/in/monalshadi",
+        "twitter" : "https://twitter.com/monalshadi"
+      },
+      "name" : "Monal Shadi"
+    }, {
+      "img" : "https://avatars3.githubusercontent.com/u/23402726?s=400&v=4",
+      "links" : {
+        "facebook" : "https://www.facebook.com/rohit.shamdasani.5 ",
+        "github" : "https://github.com/Rohit280297",
+        "linkedin" : "",
+        "twitter" : "https://twitter.com/shamdasanirohit"
+      },
+      "name" : "Rohit Shamdasani"
+    }, {
+      "img" : "https://avatars2.githubusercontent.com/u/28647524?s=400&v=4",
+      "links" : {
+        "github" : "http://github.com/cyberNinja21",
+        "linkedin" : "https://www.linkedin.com/in/rohan-singh-015003154/",
+        "twitter" : ""
+      },
+      "name" : "Rohan Singh"
+    }, {
+      "img" : "https://avatars0.githubusercontent.com/u/20857861?s=400&v=4",
+      "links" : {
+        "facebook" : "https://www.facebook.com/shashi.bhushan.52493",
+        "github" : "https://github.com/shashihack",
+        "linkedin" : "https://www.linkedin.com/in/shashi-bhushan-912154141/",
+        "twitter" : ""
+      },
+      "name" : "Shashi Bhushan"
+    } ],
+    "name" : "Web Team"
+  }, {
+    "members" : [ {
+      "img" : "https://media.licdn.com/media/AAEAAQAAAAAAAAzcAAAAJDQ3OTY5MzJiLTZhNDMtNGI5Ni1hNmEwLTAzZWRjZjdhZTMyZA.jpg",
+      "links" : {
+        "facebook" : "https://www.facebook.com/profile.php?id=100006098768576",
+        "github" : "https://github.com/bxute",
+        "linkedin" : "https://www.linkedin.com/in/bxute",
+        "twitter" : "https://twitter.com/kumar071460"
+      },
+      "name" : "Ankit Kumar"
+    }, {
+      "img" : "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-1/26903735_1556041794432342_8947584490069181974_n.jpg?oh=86625b05634724715768aadaf280e571&oe=5B08946B",
+      "links" : {
+        "facebook" : "https://www.facebook.com/saurabhjn76",
+        "github" : "https://github.com/saurabhjn76",
+        "linkedin" : "https://www.linkedin.com/in/saurabh-jain-aa3302113/",
+        "twitter" : "https://twitter.com/saurabhjn76"
+      },
+      "name" : "Saurabh Jain"
+    }, {
+      "img" : "https://avatars2.githubusercontent.com/u/24923974?s=460&v=4",
+      "links" : {
+        "facebook" : "https://m.facebook.com/deepansh.khandelwal.9",
+        "github" : "https://github.com/DipanshKhandelwal",
+        "linkedin" : "https://www.linkedin.com/in/dipansh-khandelwal-b326a4137",
+        "twitter" : ""
+      },
+      "name" : "Dipansh Khandelwal"
+    }, {
+      "img" : "https://avatars0.githubusercontent.com/u/18033231?s=400&v=4",
+      "links" : {
+        "facebook" : "",
+        "github" : "https://github.com/yashLadha",
+        "linkedin" : "www.linkedin.com/in/yash-ladha-853aa8140",
+        "twitter" : "https://twitter.com/yashLadha_"
+      },
+      "name" : "Yash Ladha"
+    }, {
+      "img" : "https://avatars3.githubusercontent.com/u/21140122?s=400&v=4",
+      "links" : {
+        "facebook" : "www.facebook.com/harshendra.shah.11",
+        "github" : "https://github.com/hshah11",
+        "linkedin" : "www.linkedin.com/in/harshendrashah",
+        "twitter" : "https://twitter.com/shah_harshendra"
+      },
+      "name" : "Harshendra Shah"
+    }, {
+      "img" : "https://avatars3.githubusercontent.com/u/30633549?s=400&v=4",
+      "links" : {
+        "facebook" : "https://www.facebook.com/roshni.ram.7",
+        "github" : "https://github.com/roshniRam",
+        "linkedin" : "",
+        "twiiter" : "https://twitter.com/RoshniRam1"
+      },
+      "name" : "Roshni Ram"
+    }, {
+      "img" : "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAMAAQDGAAwAAQAAAAAAAA1RAAAAJDUyMWRmMDY4LTRmYzEtNDViNy1iODNmLWRjODQxNTRkMzY3ZQ.jpg",
+      "links" : {
+        "facebook" : "https://www.facebook.com/neelansh.sahai.3",
+        "github" : "https://github.com/neelanshsahai",
+        "linkedin" : "https://www.linkedin.com/in/neelansh-sahai-555a693b/",
+        "twitter" : "https://twitter.com/NeelanshSahai"
+      },
+      "name" : "Neelansh Sahai"
+    } ],
+    "name" : "Android Team"
+  } ],
+  "users" : {
+    "00TFc1RDWIhwU2AnumIhXI5xUcH2" : {
+      "email" : "201752020@iiitvadodara.ac.in",
+      "name" : "KHUSHBOO GARG",
+      "uid" : "00TFc1RDWIhwU2AnumIhXI5xUcH2"
+    },
+    "050EpNiNndgeIZD2FTlmdbK3OQ13" : {
+      "email" : "vs867312@gmail.com",
+      "name" : "Vikas Sharma",
+      "uid" : "050EpNiNndgeIZD2FTlmdbK3OQ13"
+    },
+    "0xOYNrrpcPdsIaRBPMlpS5I2FJO2" : {
+      "email" : "201651007@iiitvadodara.ac.in",
+      "name" : "AMAN YADAV",
+      "uid" : "0xOYNrrpcPdsIaRBPMlpS5I2FJO2"
+    },
+    "1CcR5wpRr7ftSqL6OQIpsGouCOe2" : {
+      "email" : "anshu.av97@gmail.com",
+      "name" : "Anshuman Verma",
+      "phone" : "9428659093",
+      "uid" : "1CcR5wpRr7ftSqL6OQIpsGouCOe2"
+    },
+    "1JJFcnhD2tUhVDbdx5CVjyXvTyn2" : {
+      "email" : "201551077@iiitvadodara.ac.in",
+      "name" : "YOGESH AGARWAL",
+      "uid" : "1JJFcnhD2tUhVDbdx5CVjyXvTyn2"
+    },
+    "1mqAH2ljGUPtO6XqvwjcPFNDp1I2" : {
+      "email" : "201652027@iiitvadodara.ac.in",
+      "name" : "SUSHIL KANNOJE",
+      "uid" : "1mqAH2ljGUPtO6XqvwjcPFNDp1I2"
+    },
+    "2KGr4usgY4hu6Po7KLQOzDmUuyB3" : {
+      "email" : "sureshupadhyay900@gmail.com",
+      "name" : "suresh upadhyay",
+      "phone" : "7042432072",
+      "uid" : "2KGr4usgY4hu6Po7KLQOzDmUuyB3"
+    },
+    "2tStDY7OhRS2y5FCbtTZHQHN7Pz2" : {
+      "email" : "201551009@iiitvadodara.ac.in",
+      "name" : "PRAKASH RAI",
+      "uid" : "2tStDY7OhRS2y5FCbtTZHQHN7Pz2"
+    },
+    "3NndAwNIJKTIrukp3EgOTa7Qety1" : {
+      "email" : "201752033@iiitvadodara.ac.in",
+      "name" : "SHAH RONIK KRUSANG",
+      "uid" : "3NndAwNIJKTIrukp3EgOTa7Qety1"
+    },
+    "3brgsaP8sdcJBpQFQJ0IH4hbulh1" : {
+      "email" : "swapnil@iiitvadodara.ac.in",
+      "name" : "Swapnil Lokhande",
+      "uid" : "3brgsaP8sdcJBpQFQJ0IH4hbulh1"
+    },
+    "3cILDTxpWjRDuNYR7eknYfB9kvA3" : {
+      "email" : "201752025@iiitvadodara.ac.in",
+      "name" : "NIKHIL PURSWANI",
+      "uid" : "3cILDTxpWjRDuNYR7eknYfB9kvA3"
+    },
+    "4jNZOLfj8ohDRtWELxTP9WGlxuV2" : {
+      "email" : "anjansrivathsav1997@gmail.com",
+      "name" : "anjansrivathsav g",
+      "uid" : "4jNZOLfj8ohDRtWELxTP9WGlxuV2"
+    },
+    "5XRTAOHKyFNSPVoRK5hxasWWB4i1" : {
+      "email" : "201651045@iiitvadodara.ac.in",
+      "name" : "ROSHNI RAM",
+      "phone" : "9428677649",
+      "uid" : "5XRTAOHKyFNSPVoRK5hxasWWB4i1"
+    },
+    "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13" : {
+      "email" : "201551078@iiitvadodara.ac.in",
+      "name" : "OMPRAKASH BHINCHAR",
+      "uid" : "5YoAFZOEZeZnEEFZ4ZcXcD1p4g13"
+    },
+    "5ycbaINwVqeF1UnPHI43GI32wim1" : {
+      "email" : "divyeshpuri66@gmail.com",
+      "name" : "divyesh Puri",
+      "phone" : "8005741254",
+      "uid" : "5ycbaINwVqeF1UnPHI43GI32wim1"
+    },
+    "6B0ULOgRYHh3K0600NVgmRRToSw1" : {
+      "email" : "abhikatara.sanskar91@gmail.com",
+      "name" : "Abhishek katara",
+      "uid" : "6B0ULOgRYHh3K0600NVgmRRToSw1"
+    },
+    "6Xk0KghdUqfoUS2JIt0Dalwdh3h1" : {
+      "email" : "201751049@iiitvadodara.ac.in",
+      "name" : "SHASHANK GUPTA",
+      "uid" : "6Xk0KghdUqfoUS2JIt0Dalwdh3h1"
+    },
+    "6n2Y3REpfzg1tRHNoAqg0E3cSrx2" : {
+      "email" : "201651003@iiitvadodara.ac.in",
+      "name" : "ABHISHEK KUMAR",
+      "uid" : "6n2Y3REpfzg1tRHNoAqg0E3cSrx2"
+    },
+    "7FvE4KKIyQXm7U7dj1WYifPVHwg1" : {
+      "email" : "kaustubh.dwi@gmail.com",
+      "name" : "Kaustubh Dwivedi",
+      "phone" : "8004650959",
+      "uid" : "7FvE4KKIyQXm7U7dj1WYifPVHwg1"
+    },
+    "8DcoC1wB76Tz2olPSVvRTY7036f1" : {
+      "email" : "201752001@iiitvadodara.ac.in",
+      "name" : "ABHIJEET SINGH RATHORE",
+      "uid" : "8DcoC1wB76Tz2olPSVvRTY7036f1"
+    },
+    "8hQONhrLfPgZdsezVkBxFhY1R8h2" : {
+      "email" : "201651020@iiitvadodara.ac.in",
+      "name" : "JEETPAL MEENA",
+      "uid" : "8hQONhrLfPgZdsezVkBxFhY1R8h2"
+    },
+    "8zo4jrax8aPdgYRjSTdBs2g7Vll1" : {
+      "email" : "201651030@iiitvadodara.ac.in",
+      "name" : "MOHAK KHARE",
+      "uid" : "8zo4jrax8aPdgYRjSTdBs2g7Vll1"
+    },
+    "B4njDQfgI6gmgSbQmuB6N3f7iRC2" : {
+      "email" : "dukemaneesh@gmail.com",
+      "name" : "maneesh kumar",
+      "uid" : "B4njDQfgI6gmgSbQmuB6N3f7iRC2"
+    },
+    "BlKW0Q0fU4efAIbHyjfrb66qn1o2" : {
+      "email" : "201451038@iiitvadodara.ac.in",
+      "name" : "RAJAT DANGI",
+      "phone" : "9424817502",
+      "uid" : "BlKW0Q0fU4efAIbHyjfrb66qn1o2"
+    },
+    "BpcTq4YnTmQi0K6PUulIiSrMRni1" : {
+      "email" : "201651032@iiitvadodara.ac.in",
+      "name" : "MONIKA PHADNIS",
+      "uid" : "BpcTq4YnTmQi0K6PUulIiSrMRni1"
+    },
+    "BvLvoHpXZRRjnwcHeEsO7psqQSz1" : {
+      "email" : "monikasingh20102001@gmail.com",
+      "name" : "MONIKA SINGH",
+      "uid" : "BvLvoHpXZRRjnwcHeEsO7psqQSz1"
+    },
+    "BzFo1whYCDgJjKxQULM6TTx3r9G2" : {
+      "email" : "201652019@iiitvadodara.ac.in",
+      "name" : "PRIYANSHU VERMA",
+      "phone" : "8299760262",
+      "uid" : "BzFo1whYCDgJjKxQULM6TTx3r9G2"
+    },
+    "CGNZG84Pueb7xifntGRetHLxqRf1" : {
+      "email" : "201551060@iiitvadodara.ac.in",
+      "name" : "ALIZEY JALIL",
+      "phone" : "9939553767",
+      "uid" : "CGNZG84Pueb7xifntGRetHLxqRf1"
+    },
+    "CUFtYx2FRnNhav2dZxNYbR9QdEv2" : {
+      "email" : "201751004@iiitvadodara.ac.in",
+      "name" : "AJAY KUMAR",
+      "phone" : "7985506791",
+      "uid" : "CUFtYx2FRnNhav2dZxNYbR9QdEv2"
+    },
+    "DWrV9yWv3AYrwZGXkYtRkdKAkOx1" : {
+      "email" : "dptksh@gmail.com",
+      "name" : "dipti solanki",
+      "uid" : "DWrV9yWv3AYrwZGXkYtRkdKAkOx1"
+    },
+    "DceIhsKizjZg6xG7OzBvpcoqyv43" : {
+      "email" : "201551064@iiitvadodara.ac.in",
+      "name" : "VIKAS RAJPUT",
+      "uid" : "DceIhsKizjZg6xG7OzBvpcoqyv43"
+    },
+    "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2" : {
+      "email" : "201651017@iiitvadodara.ac.in",
+      "name" : "HARSHENDRA SHAH",
+      "uid" : "EoUVo2bdD3aXpj5j1Fvv2VHPdsW2"
+    },
+    "F7TJvSLG0tX0ujtm93k0UHqTcg32" : {
+      "email" : "201751011@iiitvadodara.ac.in",
+      "name" : "CHANCHAL SAINI",
+      "uid" : "F7TJvSLG0tX0ujtm93k0UHqTcg32"
+    },
+    "GLL9T61HOIRzq7kMsncwnHwziap2" : {
+      "email" : "201651049@iiitvadodara.ac.in",
+      "name" : "SUNNY PRAKASH",
+      "uid" : "GLL9T61HOIRzq7kMsncwnHwziap2"
+    },
+    "GYzHBxVU6ZgUGiyRbJOZQ2rGSy43" : {
+      "email" : "201851024@iiitvadodara.ac.in",
+      "name" : "201851024 ANUBHAV MADHAV",
+      "phone" : "9725750798",
+      "uid" : "GYzHBxVU6ZgUGiyRbJOZQ2rGSy43"
+    },
+    "Ga0hd0gbwMbSEv69DxJXRPqV7mF3" : {
+      "email" : "201651048@iiitvadodara.ac.in",
+      "name" : "SUBHASH KALICHARAN",
+      "uid" : "Ga0hd0gbwMbSEv69DxJXRPqV7mF3"
+    },
+    "Hvb5nGCSpmRdRqIYsjBQKziW7tl1" : {
+      "email" : "201651052@iiitvadodara.ac.in",
+      "name" : "VARUN BAFNA",
+      "phone" : "9660222010",
+      "uid" : "Hvb5nGCSpmRdRqIYsjBQKziW7tl1"
+    },
+    "HyBQVgwl7If4NvA2jcC5jYPNmS53" : {
+      "email" : "preetiy301998@gmail.com",
+      "name" : "PREETI YADAV",
+      "uid" : "HyBQVgwl7If4NvA2jcC5jYPNmS53"
+    },
+    "ILA6T3OE26WTuPmkB1ynjUXnQX12" : {
+      "email" : "201651001@iiitvadodara.ac.in",
+      "name" : "AASHUTOSH RATHI",
+      "phone" : "7014953545",
+      "uid" : "ILA6T3OE26WTuPmkB1ynjUXnQX12"
+    },
+    "J1xdJiEmXUOWCp7ZhEORIRO6ykR2" : {
+      "email" : "201751054@iiitvadodara.ac.in",
+      "name" : "SHUBHAM BINDAL",
+      "phone" : "9761484560",
+      "uid" : "J1xdJiEmXUOWCp7ZhEORIRO6ykR2"
+    },
+    "J3zq2Pr5d3QPFGxjHBc0xj528Hs2" : {
+      "email" : "201651056@iiitvadodara.ac.in",
+      "name" : "MONAL SHADI",
+      "phone" : "6969696",
+      "uid" : "J3zq2Pr5d3QPFGxjHBc0xj528Hs2"
+    },
+    "JSQvutoXr1QkguPa7oDxWMgLkVW2" : {
+      "email" : "201552060@iiitvadodara.ac.in",
+      "name" : "NIRANJAN KUMAR CHOUDHARY",
+      "uid" : "JSQvutoXr1QkguPa7oDxWMgLkVW2"
+    },
+    "JekzQt4qN0Xx4rVIhwNUu8Rj9Sz2" : {
+      "email" : "201651040@iiitvadodara.ac.in",
+      "name" : "RACHANA SOMA",
+      "uid" : "JekzQt4qN0Xx4rVIhwNUu8Rj9Sz2"
+    },
+    "KESg1VbZYJWRA6Se5Nu8Je8U0v02" : {
+      "email" : "201752028@iiitvadodara.ac.in",
+      "name" : "PRASHANT SHARMA",
+      "uid" : "KESg1VbZYJWRA6Se5Nu8Je8U0v02"
+    },
+    "KFMC5nzSE1UtwZrTKEBAzPpQM7D3" : {
+      "email" : "ujwalkaka@gmail.com",
+      "name" : "Ujwal Tewari",
+      "uid" : "KFMC5nzSE1UtwZrTKEBAzPpQM7D3"
+    },
+    "LEZya6LgcNXtIY0fSh6OtY0zrtj2" : {
+      "email" : "saurabhjn76@gmail.com",
+      "name" : "Saurabh Jain",
+      "uid" : "LEZya6LgcNXtIY0fSh6OtY0zrtj2"
+    },
+    "LI0ZrW9M7bc2PiMVv3kslIAhu712" : {
+      "email" : "201752043@iiitvadodara.ac.in",
+      "name" : "VISHAL GAUR",
+      "phone" : "9265086635",
+      "uid" : "LI0ZrW9M7bc2PiMVv3kslIAhu712"
+    },
+    "LMWZWJr7IUOU9CmigGFKMO40ZDn1" : {
+      "email" : "201751007@iiitvadodara.ac.in",
+      "name" : "ANJALI PRIYA",
+      "uid" : "LMWZWJr7IUOU9CmigGFKMO40ZDn1"
+    },
+    "LQSUYGRwUHWVVfKn9kSpuPymNR52" : {
+      "email" : "201651051@iiitvadodara.ac.in",
+      "name" : "VAAIBHAVI SINGH",
+      "uid" : "LQSUYGRwUHWVVfKn9kSpuPymNR52"
+    },
+    "M4EFfN5izrMhidNbe14jFoImkH33" : {
+      "email" : "201651011@iiitvadodara.ac.in",
+      "name" : "AVKARAN SINGH",
+      "uid" : "M4EFfN5izrMhidNbe14jFoImkH33"
+    },
+    "M744fYYjyWbi7PI3PFNSDd3xdnp1" : {
+      "email" : "neerajrajpurohitnn@gmail.com",
+      "name" : "Neeraj Rajpurohit",
+      "uid" : "M744fYYjyWbi7PI3PFNSDd3xdnp1"
+    },
+    "MkC7KzbtyYSvojDOgbBP0n70qDE2" : {
+      "email" : "201651018@iiitvadodara.ac.in",
+      "name" : "HEET SANKESARA",
+      "uid" : "MkC7KzbtyYSvojDOgbBP0n70qDE2"
+    },
+    "Mv7319YJvahF2AV0ZCH9XuCrNzK2" : {
+      "email" : "sumantraram999@gmail.com",
+      "name" : "Sumantraram Dudhrejiya",
+      "phone" : "9601916351",
+      "uid" : "Mv7319YJvahF2AV0ZCH9XuCrNzK2"
+    },
+    "ND0hraodESOxVrXbCTfnC5KtCE73" : {
+      "email" : "201751044@iiitvadodara.ac.in",
+      "name" : "SANDEEP DHRUW",
+      "phone" : "7999633971",
+      "uid" : "ND0hraodESOxVrXbCTfnC5KtCE73"
+    },
+    "NQWl3V2q9pWkNi0gWzcARxAJt6s1" : {
+      "email" : "201751063@iiitvadodara.ac.in",
+      "name" : "VYOM GUPTA",
+      "uid" : "NQWl3V2q9pWkNi0gWzcARxAJt6s1"
+    },
+    "NUy4dVfbJich9hnct4LpDy0G7dl1" : {
+      "email" : "201751061@iiitvadodara.ac.in",
+      "name" : "VIKASH KUMAR",
+      "phone" : "9879219644",
+      "uid" : "NUy4dVfbJich9hnct4LpDy0G7dl1"
+    },
+    "O8QDHh861tS85hcKVmDY34Pex5T2" : {
+      "email" : "201551074@iiitvadodara.ac.in",
+      "name" : "SAKSHEE JAIN",
+      "uid" : "O8QDHh861tS85hcKVmDY34Pex5T2"
+    },
+    "OQU9Uk4Y8ER7cWhGrprjMBZz6vC3" : {
+      "email" : "201651021@iiitvadodara.ac.in",
+      "name" : "JINDAM SUCHANDRA",
+      "uid" : "OQU9Uk4Y8ER7cWhGrprjMBZz6vC3"
+    },
+    "Oj0eKXnQbPM4GxeoYahUKuRdkt22" : {
+      "email" : "201751017@iiitvadodara.ac.in",
+      "name" : "J PREM SHANKER",
+      "phone" : "8511696345",
+      "uid" : "Oj0eKXnQbPM4GxeoYahUKuRdkt22"
+    },
+    "PSkwE6HTDIRvnZ2ebdIaKRbWSh12" : {
+      "email" : "201551004@iiitvadodara.ac.in",
+      "name" : "ANIL SHARMA",
+      "uid" : "PSkwE6HTDIRvnZ2ebdIaKRbWSh12"
+    },
+    "PURLigc1mHfQExgkSV6kYHQOAPD3" : {
+      "email" : "alokyadav495@gmail.com",
+      "name" : "Alok yadav",
+      "uid" : "PURLigc1mHfQExgkSV6kYHQOAPD3"
+    },
+    "PVbk5gqiKudtnPggoSP902zgYgO2" : {
+      "email" : "201752006@iiitvadodara.ac.in",
+      "name" : "AJIT KUMAR SANCHETI",
+      "uid" : "PVbk5gqiKudtnPggoSP902zgYgO2"
+    },
+    "PbAGvZ4ro9et6QQAxHdI4jPUVEp2" : {
+      "email" : "201451072@iiitvadodara.ac.in",
+      "name" : "KAMAL AWASTHI",
+      "uid" : "PbAGvZ4ro9et6QQAxHdI4jPUVEp2"
+    },
+    "Po9w20JRXJgcXWRfakTczpbSQPa2" : {
+      "email" : "201651029@iiitvadodara.ac.in",
+      "name" : "MAYANK PATHELA",
+      "phone" : "9429021503",
+      "uid" : "Po9w20JRXJgcXWRfakTczpbSQPa2"
+    },
+    "QJmIIuzbejThIU75kPXUEzkMwXY2" : {
+      "email" : "ay839065@gmail.com",
+      "name" : "Ashu Yadav",
+      "phone" : "7621864476",
+      "uid" : "QJmIIuzbejThIU75kPXUEzkMwXY2"
+    },
+    "QNa1VCS03HX0u5lW8Hw3ngiUz2f1" : {
+      "email" : "singh.pratyush96@gmail.com",
+      "name" : "Pratyush Singh",
+      "phone" : "+919415126997",
+      "uid" : "QNa1VCS03HX0u5lW8Hw3ngiUz2f1"
+    },
+    "RGjD1Oc9tAek955uwnXHtEQS0f02" : {
+      "email" : "201651027@iiitvadodara.ac.in",
+      "name" : "MALAYAM ANUSHA",
+      "uid" : "RGjD1Oc9tAek955uwnXHtEQS0f02"
+    },
+    "RVik5zdMGCR2yoSyaKElklRJ4uz2" : {
+      "email" : "mukulkherli@gmail.com",
+      "name" : "Mohit Yadav",
+      "uid" : "RVik5zdMGCR2yoSyaKElklRJ4uz2"
+    },
+    "RWvr2e0msigcOka7BqtRSTYXCo63" : {
+      "email" : "201551093@iiitvadodara.ac.in",
+      "name" : "SIDDHARTH JAIN",
+      "phone" : "8460455625",
+      "uid" : "RWvr2e0msigcOka7BqtRSTYXCo63"
+    },
+    "RmLQgHuEjcNzdGIIVaX0qlLUiFV2" : {
+      "email" : "ketulp44@gmail.com",
+      "name" : "ketul patel",
+      "uid" : "RmLQgHuEjcNzdGIIVaX0qlLUiFV2"
+    },
+    "RpO3WJTnopOZY4nBcGnLgjCzcwW2" : {
+      "email" : "monalshadi16@gmail.com",
+      "name" : "Monal",
+      "uid" : "RpO3WJTnopOZY4nBcGnLgjCzcwW2"
+    },
+    "RtjzC5Hkwudjro37ejUeAGhZuye2" : {
+      "email" : "saurabhsri.sri123@gmail.com",
+      "name" : "saurabh srivastava",
+      "uid" : "RtjzC5Hkwudjro37ejUeAGhZuye2"
+    },
+    "S2tiepLsotMvSaoEZot83eGsQ4s2" : {
+      "email" : "201651009@iiitvadodara.ac.in",
+      "name" : "ASHUTOSH KUSHWAHA",
+      "phone" : "7990572243",
+      "uid" : "S2tiepLsotMvSaoEZot83eGsQ4s2"
+    },
+    "SHU2j1D8mZeytcTSc9lG6a9RPj23" : {
+      "email" : "201551044@iiitvadodara.ac.in",
+      "name" : "KOTHA SAI",
+      "phone" : "9687492067",
+      "uid" : "SHU2j1D8mZeytcTSc9lG6a9RPj23"
+    },
+    "SRuAvZAtiWcMBNtDSm5ysqf9ykk2" : {
+      "email" : "201552046@iiitvadodara.ac.in",
+      "name" : "AYUSH SAXENA",
+      "uid" : "SRuAvZAtiWcMBNtDSm5ysqf9ykk2"
+    },
+    "StdaT5fPjGWtV8s27kcR9pUfaBK2" : {
+      "email" : "201652004@iiitvadodara.ac.in",
+      "name" : "ASHUTOSH KUMAR",
+      "phone" : "7903583997",
+      "uid" : "StdaT5fPjGWtV8s27kcR9pUfaBK2"
+    },
+    "T94aqt5095azSUQnkIlpWhxnHwp1" : {
+      "email" : "201552053@iiitvadodara.ac.in",
+      "name" : "Dheeraj Agrawal",
+      "phone" : "9408595308",
+      "uid" : "T94aqt5095azSUQnkIlpWhxnHwp1"
+    },
+    "TDLVgFTR0gWLLiKiLL1MgmRYD2h1" : {
+      "email" : "yashladhapankajladha123@gmail.com",
+      "name" : "Yash Ladha",
+      "uid" : "TDLVgFTR0gWLLiKiLL1MgmRYD2h1"
+    },
+    "TfgYtQTjtGdNvOISuLbCC01hQI12" : {
+      "email" : "201551083@iiitvadodara.ac.in",
+      "name" : "PRAKHAR KULSHRESTHA",
+      "uid" : "TfgYtQTjtGdNvOISuLbCC01hQI12"
+    },
+    "U1Z6DTU7W7NR7o5XHD0e3Bbse9Q2" : {
+      "email" : "201551072@iiitvadodara.ac.in",
+      "name" : "MEHAK PIPLANI",
+      "uid" : "U1Z6DTU7W7NR7o5XHD0e3Bbse9Q2"
+    },
+    "UfQsAQSFNsbw7qOkQ7g3VEcljIk2" : {
+      "email" : "201552077@iiitvadodara.ac.in",
+      "name" : "VAIBHAV SINGH BHADAURIA",
+      "uid" : "UfQsAQSFNsbw7qOkQ7g3VEcljIk2"
+    },
+    "V1VuHOXjXseuNpSWdqfermoIrm53" : {
+      "email" : "201551057@iiitvadodara.ac.in",
+      "name" : "KAMLESH KUMAR",
+      "uid" : "V1VuHOXjXseuNpSWdqfermoIrm53"
+    },
+    "Vb8J0JjZFRZx2t7C8WZQ5kkYEZs2" : {
+      "email" : "anvi000111@gmail.com",
+      "name" : "ankit kumar",
+      "uid" : "Vb8J0JjZFRZx2t7C8WZQ5kkYEZs2"
+    },
+    "VgP5XV7WL2QtGcs7sDOBOA2Iyus2" : {
+      "email" : "201552069@iiitvadodara.ac.in",
+      "name" : "ADITYA KASHYAP",
+      "phone" : "9454089196",
+      "uid" : "VgP5XV7WL2QtGcs7sDOBOA2Iyus2"
+    },
+    "Viq2i2QoiqToEzS8Rtto1PyITe23" : {
+      "email" : "201551090@iiitvadodara.ac.in",
+      "name" : "AKASH AGRAWAL",
+      "phone" : "9408594016",
+      "uid" : "Viq2i2QoiqToEzS8Rtto1PyITe23"
+    },
+    "VrN1klfVsKYoAF9IwY7CxCdPL712" : {
+      "email" : "smitrajputtd@gmail.com",
+      "name" : "Smit Rajput",
+      "phone" : "9624954262",
+      "uid" : "VrN1klfVsKYoAF9IwY7CxCdPL712"
+    },
+    "W5vL12XNhxfblp7IHAn6uMTH3Bh2" : {
+      "email" : "201551001@iiitvadodara.ac.in",
+      "name" : "TANMAY KHANDAIT",
+      "uid" : "W5vL12XNhxfblp7IHAn6uMTH3Bh2"
+    },
+    "W7OcULFBlpRCeOzwiJyxRz0nF082" : {
+      "email" : "harshparihar94@gmail.com",
+      "name" : "Harsh Parihar",
+      "phone" : "7698181107",
+      "uid" : "W7OcULFBlpRCeOzwiJyxRz0nF082"
+    },
+    "X2QvWr8aOcRU5WB6Ejhvf3OfZog1" : {
+      "email" : "201651061@iiitvadodara.ac.in",
+      "name" : "SHIVAM SABOO",
+      "uid" : "X2QvWr8aOcRU5WB6Ejhvf3OfZog1"
+    },
+    "X4OF7LS6shQ7CRhJ35Rcq6QzPL03" : {
+      "email" : "piyushpawar25@gmail.com",
+      "name" : "Piyush Pawar",
+      "uid" : "X4OF7LS6shQ7CRhJ35Rcq6QzPL03"
+    },
+    "X8IdPMyQuBWibbVtgOCx0lD6NLi2" : {
+      "email" : "201751029@iiitvadodara.ac.in",
+      "name" : "PALAK AMBADE",
+      "uid" : "X8IdPMyQuBWibbVtgOCx0lD6NLi2"
+    },
+    "XBiYc7puu5MxyFOALdbxRR1Hnzz1" : {
+      "email" : "201551043@iiitvadodara.ac.in",
+      "name" : "HARSHAVARDHAN DYAVATH",
+      "phone" : "9687492067",
+      "uid" : "XBiYc7puu5MxyFOALdbxRR1Hnzz1"
+    },
+    "XGlfZ8uvRiPWCbfGzbhi8uhuP9H2" : {
+      "email" : "jay88320@gmail.com",
+      "name" : "Jay Patel",
+      "phone" : "8128871436",
+      "uid" : "XGlfZ8uvRiPWCbfGzbhi8uhuP9H2"
+    },
+    "XXAd13KgAwNdae45wkyiDFdz8dm2" : {
+      "email" : "sp427661@gmail.com",
+      "name" : "Saurabh Pandit",
+      "uid" : "XXAd13KgAwNdae45wkyiDFdz8dm2"
+    },
+    "XZx4YzoSFMcsknBGUIQ3TEuAMjh2" : {
+      "email" : "201751021@iiitvadodara.ac.in",
+      "name" : "KESHAV PARTH PUROHIT",
+      "uid" : "XZx4YzoSFMcsknBGUIQ3TEuAMjh2"
+    },
+    "YfAm2UrFPmaWvjcHNTJrigwXBdt2" : {
+      "email" : "201651004@iiitvadodara.ac.in",
+      "name" : "ABHYUDAI BISHT",
+      "uid" : "YfAm2UrFPmaWvjcHNTJrigwXBdt2"
+    },
+    "Z1Ic58B54OVCM9TkjFhBSsmkaAy1" : {
+      "email" : "201451013@iiitvadodara.ac.in",
+      "name" : "DUBBASI S VAMSHI NIVAS",
+      "uid" : "Z1Ic58B54OVCM9TkjFhBSsmkaAy1"
+    },
+    "ZADXbrvk1jgGG9rYFu7zeQtNlN73" : {
+      "email" : "201552063@iiitvadodara.ac.in",
+      "name" : "TARUN BHARDWAJ",
+      "phone" : "7567776692",
+      "uid" : "ZADXbrvk1jgGG9rYFu7zeQtNlN73"
+    },
+    "ZRTGNREFyGdA93l500fzhVTaZk22" : {
+      "email" : "201751024@iiitvadodara.ac.in",
+      "name" : "MANOJ RAJARAM YADAV",
+      "uid" : "ZRTGNREFyGdA93l500fzhVTaZk22"
+    },
+    "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2" : {
+      "email" : "201752030@iiitvadodara.ac.in",
+      "name" : "RAVI VARSHNEY",
+      "uid" : "ZWoIWaX8GmeU5kb7Us6SNrhMl5s2"
+    },
+    "ZmKpGaT6A6RRsaqUXSgEnQFBtWm2" : {
+      "email" : "201651014@iiitvadodara.ac.in",
+      "name" : "DAKSHKUMAR GONDALIYA",
+      "phone" : "9427668398",
+      "uid" : "ZmKpGaT6A6RRsaqUXSgEnQFBtWm2"
+    },
+    "aTlZcNQnYFYSON8QDE4mqrydZxt1" : {
+      "email" : "201652023@iiitvadodara.ac.in",
+      "name" : "SANDHYA YADAV",
+      "uid" : "aTlZcNQnYFYSON8QDE4mqrydZxt1"
+    },
+    "b6XM29bpJufHARQiA4fh9i07Xxf2" : {
+      "email" : "201651010@iiitvadodara.ac.in",
+      "name" : "AVDHESH YADAV",
+      "uid" : "b6XM29bpJufHARQiA4fh9i07Xxf2"
+    },
+    "bGq5sY6LZvQlIcsFSuJvguPXzVG3" : {
+      "email" : "201451051@iiitvadodara.ac.in",
+      "name" : "VISHAL VAISHNAV",
+      "uid" : "bGq5sY6LZvQlIcsFSuJvguPXzVG3"
+    },
+    "bHlZbzAVRfdvi3B7gAFX1Z5r8aE3" : {
+      "email" : "201551081@iiitvadodara.ac.in",
+      "name" : "UDAY KIRAN CHALLA",
+      "phone" : "9408594450",
+      "uid" : "bHlZbzAVRfdvi3B7gAFX1Z5r8aE3"
+    },
+    "bQZAF9sMzOTYT69v4yveY1w4NKr2" : {
+      "email" : "201651034@iiitvadodara.ac.in",
+      "name" : "NIKHIL SACHAN",
+      "phone" : "6394137771",
+      "uid" : "bQZAF9sMzOTYT69v4yveY1w4NKr2"
+    },
+    "bRkTRhng5dVbaii0wRMup177zvt2" : {
+      "email" : "201752007@iiitvadodara.ac.in",
+      "name" : "AKSHITA AGARWALLA",
+      "uid" : "bRkTRhng5dVbaii0wRMup177zvt2"
+    },
+    "bdZqNFBYMoPnBLGDE9fYPSi8AOh1" : {
+      "email" : "201651012@iiitvadodara.ac.in",
+      "name" : "AYUSH MUDGAL",
+      "uid" : "bdZqNFBYMoPnBLGDE9fYPSi8AOh1"
+    },
+    "cEyxWRrjjvbun988Rx45kJQpdFC2" : {
+      "email" : "vaishnavvshal@gmail.com",
+      "name" : "Vishal Vaishnav",
+      "phone" : "7874629669",
+      "uid" : "cEyxWRrjjvbun988Rx45kJQpdFC2"
+    },
+    "cYMzsFMdXLURQrbeTqI3OnJ76Ty2" : {
+      "email" : "201751047@iiitvadodara.ac.in",
+      "name" : "SAURABH TIWARI",
+      "phone" : "7408317660",
+      "uid" : "cYMzsFMdXLURQrbeTqI3OnJ76Ty2"
+    },
+    "d0xuipilk2VDEhmEqhmq72SshS32" : {
+      "email" : "201752040@iiitvadodara.ac.in",
+      "name" : "VASHIST HEGDE",
+      "uid" : "d0xuipilk2VDEhmEqhmq72SshS32"
+    },
+    "dLW7sfQPpJcDypXMYlULePebLAs2" : {
+      "email" : "mannshah2712@gmail.com",
+      "name" : "Mann Shah",
+      "phone" : "9664969417",
+      "uid" : "dLW7sfQPpJcDypXMYlULePebLAs2"
+    },
+    "dRJrDvff6ZW6Owcny3X5fhIGze92" : {
+      "email" : "arthp143@gmail.com",
+      "name" : "Arth Patel",
+      "phone" : "7600931681",
+      "uid" : "dRJrDvff6ZW6Owcny3X5fhIGze92"
+    },
+    "dTwbnqqOfaX6a3mmO2JOU7laJTn2" : {
+      "email" : "201551020@iiitvadodara.ac.in",
+      "name" : "PIYUSH SIKARWAL",
+      "uid" : "dTwbnqqOfaX6a3mmO2JOU7laJTn2"
+    },
+    "dbxNEIbmTDctBWHTrR7Z6slF2193" : {
+      "email" : "201651036@iiitvadodara.ac.in",
+      "name" : "PARUL SONI",
+      "uid" : "dbxNEIbmTDctBWHTrR7Z6slF2193"
+    },
+    "dw8SgLfpEAT1HSpsSoNrwkppNLk1" : {
+      "email" : "piyushmotwani2@gmail.com",
+      "name" : "Piyush Motwani",
+      "phone" : "8390780777",
+      "uid" : "dw8SgLfpEAT1HSpsSoNrwkppNLk1"
+    },
+    "fOL5EX9XOuU96MMh6SLH4APRfDp1" : {
+      "email" : "201651019@iiitvadodara.ac.in",
+      "name" : "ISHITA DAS",
+      "uid" : "fOL5EX9XOuU96MMh6SLH4APRfDp1"
+    },
+    "fSdA4x4MO4O8AQqt8Wi35rm0e2g1" : {
+      "email" : "akashrocksha@gmail.com",
+      "name" : "Akash Agrawal",
+      "uid" : "fSdA4x4MO4O8AQqt8Wi35rm0e2g1"
+    },
+    "fh4bTkNGXag8PpgT0NV8RDV9kZi1" : {
+      "email" : "201651057@iiitvadodara.ac.in",
+      "name" : "ROHIT SHAMDASANI",
+      "uid" : "fh4bTkNGXag8PpgT0NV8RDV9kZi1"
+    },
+    "fq1BYWcl0JdIgx3DSJWwy1jD3xI3" : {
+      "email" : "201651062@iiitvadodara.ac.in",
+      "name" : "ROHAN SINGH",
+      "phone" : "9428660346",
+      "uid" : "fq1BYWcl0JdIgx3DSJWwy1jD3xI3"
+    },
+    "g1cumJTNOHZCf9LHGhWtZvQ7bAy2" : {
+      "email" : "201752011@iiitvadodara.ac.in",
+      "name" : "ANUSHA GUPTA",
+      "uid" : "g1cumJTNOHZCf9LHGhWtZvQ7bAy2"
+    },
+    "gAYAGNcwZ4RjdxelxhdZ8gkfp5s2" : {
+      "email" : "mrudulchauhan50@gmail.com",
+      "name" : "Mrudul Chauhan",
+      "uid" : "gAYAGNcwZ4RjdxelxhdZ8gkfp5s2"
+    },
+    "gUxqVnH4ezWMgKwYJAq0BQHSrra2" : {
+      "email" : "kumarhimanshu5128409@gmail.com",
+      "name" : "Kumar Himanshu",
+      "uid" : "gUxqVnH4ezWMgKwYJAq0BQHSrra2"
+    },
+    "hojwzcs24IWNjZeMgSvA0pyZAN42" : {
+      "email" : "201752035@iiitvadodara.ac.in",
+      "name" : "SHIVAM SINGH",
+      "phone" : "9166837930",
+      "uid" : "hojwzcs24IWNjZeMgSvA0pyZAN42"
+    },
+    "hq9GOwCyWXZiQRS1VbDz9kQCrNt1" : {
+      "email" : "201751036@iiitvadodara.ac.in",
+      "name" : "PRAKHAR PRAKASH GUPTA",
+      "uid" : "hq9GOwCyWXZiQRS1VbDz9kQCrNt1"
+    },
+    "i0A3tOhOYiV05svbHWUWefKejgR2" : {
+      "email" : "201752041@iiitvadodara.ac.in",
+      "name" : "VIKAS SHARMA",
+      "phone" : "9079831856",
+      "uid" : "i0A3tOhOYiV05svbHWUWefKejgR2"
+    },
+    "iX2PiCyW5vVv4FHbEn2LLxpYjf93" : {
+      "email" : "201751059@iiitvadodara.ac.in",
+      "name" : "VAISHNAV VAIDEHI",
+      "phone" : "8490847639",
+      "uid" : "iX2PiCyW5vVv4FHbEn2LLxpYjf93"
+    },
+    "iiGRXMZVfSZWAz4qJAvFGPngdkR2" : {
+      "email" : "201551066@iiitvadodara.ac.in",
+      "name" : "MADHUKAR JAISWAL",
+      "phone" : "8840848523",
+      "uid" : "iiGRXMZVfSZWAz4qJAvFGPngdkR2"
+    },
+    "iqLL3ifLrGR4QJWqYNtrRBoZFUa2" : {
+      "email" : "201551006@iiitvadodara.ac.in",
+      "name" : "NIKHIL THOTA",
+      "uid" : "iqLL3ifLrGR4QJWqYNtrRBoZFUa2"
+    },
+    "iwwEZcQqjEfEBvQDso2eBXc9fC72" : {
+      "email" : "201652026@iiitvadodara.ac.in",
+      "name" : "SHUBHAM SINGH",
+      "phone" : "9119637832",
+      "uid" : "iwwEZcQqjEfEBvQDso2eBXc9fC72"
+    },
+    "jFtcljmpM0hCdwIY6KKj9cWaLSI2" : {
+      "email" : "201652030@iiitvadodara.ac.in",
+      "name" : "VISHAL KATIYAR",
+      "phone" : "",
+      "uid" : "jFtcljmpM0hCdwIY6KKj9cWaLSI2"
+    },
+    "jQYKDWQnjQcU0JypltVouoSKymg1" : {
+      "email" : "201652028@iiitvadodara.ac.in",
+      "name" : "VADLA KUMAR",
+      "uid" : "jQYKDWQnjQcU0JypltVouoSKymg1"
+    },
+    "jrcjJ2kuxZPpILuBELMgrtIgTn92" : {
+      "email" : "201652009@iiitvadodara.ac.in",
+      "name" : "KULSHRESHTHA GOYAL",
+      "phone" : "8005921993",
+      "uid" : "jrcjJ2kuxZPpILuBELMgrtIgTn92"
+    },
+    "k8MT9y3P4ATzRkZwMCLhoBS3QLo1" : {
+      "email" : "201752012@iiitvadodara.ac.in",
+      "name" : "BAGADE RUSHIKESH DNYANESHWAR",
+      "uid" : "k8MT9y3P4ATzRkZwMCLhoBS3QLo1"
+    },
+    "lS21RmaNc2Uc4GcfzXL8yZnHsAn1" : {
+      "email" : "201751025@iiitvadodara.ac.in",
+      "name" : "MISTRY JAY",
+      "phone" : "9265961755",
+      "uid" : "lS21RmaNc2Uc4GcfzXL8yZnHsAn1"
+    },
+    "lqwOyxnPHkSGWvH2OV8ymdqOghJ3" : {
+      "email" : "201551059@iiitvadodara.ac.in",
+      "name" : "Shivvrat Vinay Arya",
+      "uid" : "lqwOyxnPHkSGWvH2OV8ymdqOghJ3"
+    },
+    "lwe0ST2FjyTNSsHax9F4kMVQnea2" : {
+      "email" : "201552055@iiitvadodara.ac.in",
+      "name" : "VASUDEV PRAJAPAT",
+      "uid" : "lwe0ST2FjyTNSsHax9F4kMVQnea2"
+    },
+    "mJVXwx2GsNfHMgkcFXgCzT9eM2F2" : {
+      "email" : "ansarimofid@gmail.com",
+      "name" : "Mofid Ansari",
+      "uid" : "mJVXwx2GsNfHMgkcFXgCzT9eM2F2"
+    },
+    "mNXBFRrX86cXpqyuizpI89ayU732" : {
+      "email" : "khatri.jay73@gmail.com",
+      "name" : "Jay Khatri",
+      "phone" : "9574761311",
+      "uid" : "mNXBFRrX86cXpqyuizpI89ayU732"
+    },
+    "mdNwL1uPTlc488NGPjAWWU23EsS2" : {
+      "email" : "201652014@iiitvadodara.ac.in",
+      "name" : "NAVEEN SATYARTHI",
+      "phone" : "9639065858",
+      "uid" : "mdNwL1uPTlc488NGPjAWWU23EsS2"
+    },
+    "migswcvXT5gOFjYgEgaO36mCUXx1" : {
+      "email" : "201651024@iiitvadodara.ac.in",
+      "name" : "KIRTIKA SINGHAL",
+      "uid" : "migswcvXT5gOFjYgEgaO36mCUXx1"
+    },
+    "oFnxHzl5T3QxkgDZIu7cMQs1Tsv2" : {
+      "email" : "201651058@iiitvadodara.ac.in",
+      "name" : "PRITHA UPADHYAY",
+      "uid" : "oFnxHzl5T3QxkgDZIu7cMQs1Tsv2"
+    },
+    "qzkfCpl8qURPGojny6QcFn8guQH2" : {
+      "email" : "201751042@iiitvadodara.ac.in",
+      "name" : "SAHADEV INDLIA",
+      "uid" : "qzkfCpl8qURPGojny6QcFn8guQH2"
+    },
+    "rDKqqu4VoNh95EhCqRK7nJjqcVg1" : {
+      "email" : "nikhilopp66@gmail.com",
+      "name" : "Nikhil purswani",
+      "uid" : "rDKqqu4VoNh95EhCqRK7nJjqcVg1"
+    },
+    "rI9Wf8AOJ3PaCDyLyD0RIuF01fJ2" : {
+      "email" : "201751045@iiitvadodara.ac.in",
+      "name" : "SANDEEP PRADHAN",
+      "phone" : "8847854430",
+      "uid" : "rI9Wf8AOJ3PaCDyLyD0RIuF01fJ2"
+    },
+    "sH1iM30ml7cblu5zoNGEtjiaqQQ2" : {
+      "email" : "201751008@iiitvadodara.ac.in",
+      "name" : "ARPIT MAHESHWARI",
+      "uid" : "sH1iM30ml7cblu5zoNGEtjiaqQQ2"
+    },
+    "sU5K3T0uk6gH731x0vtZaTaLAxs2" : {
+      "email" : "avi.aryan123@gmail.com",
+      "name" : "Avi Aryan",
+      "uid" : "sU5K3T0uk6gH731x0vtZaTaLAxs2"
+    },
+    "sijLevxfcghbUYWrwXkAIm6zW9x1" : {
+      "email" : "201652005@iiitvadodara.ac.in",
+      "name" : "AVTANS KUMAR",
+      "uid" : "sijLevxfcghbUYWrwXkAIm6zW9x1"
+    },
+    "sixO6oqVq4UIbeF0rfPuqw2gz9z1" : {
+      "email" : "aashutoshrathi@gmail.com",
+      "name" : "Aashutosh Rathi",
+      "phone" : "7014953545",
+      "uid" : "sixO6oqVq4UIbeF0rfPuqw2gz9z1"
+    },
+    "stuNS7gcR9NbLhCeXUYYOVW5oFX2" : {
+      "email" : "201751034@iiitvadodara.ac.in",
+      "name" : "PRACHI AGARWAL",
+      "uid" : "stuNS7gcR9NbLhCeXUYYOVW5oFX2"
+    },
+    "suksJke2UcQtCKocXI2hqOkjq793" : {
+      "email" : "hemantkhaitan1996@gmail.com",
+      "name" : "Hemant Khaitan",
+      "uid" : "suksJke2UcQtCKocXI2hqOkjq793"
+    },
+    "t19RMtA6hjSKnMBqTeAiGSwZ3FE3" : {
+      "email" : "kumaranils1997@gmail.com",
+      "name" : "Anil kumar",
+      "uid" : "t19RMtA6hjSKnMBqTeAiGSwZ3FE3"
+    },
+    "tCHd8zAEO3Unq5cKrxE4Y51U4pv1" : {
+      "email" : "mistry.jay15@gmail.com",
+      "name" : "Jay Mistry",
+      "uid" : "tCHd8zAEO3Unq5cKrxE4Y51U4pv1"
+    },
+    "tbSXj5hCSgY94EilRKzeFRFWVnU2" : {
+      "email" : "201651044@iiitvadodara.ac.in",
+      "name" : "ROHAN DHOOT",
+      "phone" : "7877287752",
+      "uid" : "tbSXj5hCSgY94EilRKzeFRFWVnU2"
+    },
+    "ttdbbvNpyqbNcEmV5aXZaALYwLW2" : {
+      "email" : "luisa.santo@gmail.com",
+      "name" : "Ana Luisa Santo",
+      "uid" : "ttdbbvNpyqbNcEmV5aXZaALYwLW2"
+    },
+    "uYBKRlmprcWvlHLQ1TzCCzRIjog1" : {
+      "email" : "201751053@iiitvadodara.ac.in",
+      "name" : "SHREYAS PRAVIN DAWARE",
+      "uid" : "uYBKRlmprcWvlHLQ1TzCCzRIjog1"
+    },
+    "uhQSsoWF8STi9fYJGv87Q1LB65p2" : {
+      "email" : "munawarkhan715@gmail.com",
+      "name" : "Munawar Khan",
+      "uid" : "uhQSsoWF8STi9fYJGv87Q1LB65p2"
+    },
+    "v1PvQckIh3XfZSpSt6lujwL2hM62" : {
+      "email" : "201551097@iiitvadodara.ac.in",
+      "name" : "AKASH SHARMA",
+      "phone" : "9462476620",
+      "uid" : "v1PvQckIh3XfZSpSt6lujwL2hM62"
+    },
+    "v56Np4KKdtYLuUdB8QWKiMEr5ww2" : {
+      "email" : "201552068@iiitvadodara.ac.in",
+      "name" : "JALLA MANIKANTA SWAMY",
+      "phone" : "7702021204",
+      "uid" : "v56Np4KKdtYLuUdB8QWKiMEr5ww2"
+    },
+    "v9rYssdPUUVlK8sfObHEszRkref2" : {
+      "email" : "avsingh19522@gmail.com",
+      "name" : "av Singh",
+      "phone" : "7201917113",
+      "uid" : "v9rYssdPUUVlK8sfObHEszRkref2"
+    },
+    "viKOpfNUQYgRSrQLOuxMsXR0hKE3" : {
+      "email" : "201452006@iiitvadodara.ac.in",
+      "name" : "MAYANK MAURYA",
+      "uid" : "viKOpfNUQYgRSrQLOuxMsXR0hKE3"
+    },
+    "vqN4nT55iuPtiaBGCseKSZNiDa23" : {
+      "email" : "201451069@iiitvadodara.ac.in",
+      "name" : "SAURABH JAIN",
+      "uid" : "vqN4nT55iuPtiaBGCseKSZNiDa23"
+    },
+    "vzESwO1SSQWPoMlOigh3kxLFlC23" : {
+      "email" : "harshsavaliya2194@gmail.com",
+      "name" : "Harsh Savaliya",
+      "uid" : "vzESwO1SSQWPoMlOigh3kxLFlC23"
+    },
+    "wdYX1CMNuWWj6KDOcUq4QwYug8C2" : {
+      "email" : "201552025@iiitvadodara.ac.in",
+      "name" : "SPARSH MAURYA",
+      "uid" : "wdYX1CMNuWWj6KDOcUq4QwYug8C2"
+    },
+    "wofXS8jgfqf8AVbfmmkTkRgQ4us2" : {
+      "email" : "201552076@iiitvadodara.ac.in",
+      "name" : "SHASHI BHUSHAN",
+      "uid" : "wofXS8jgfqf8AVbfmmkTkRgQ4us2"
+    },
+    "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2" : {
+      "email" : "katara.abhishek7@gmail.com",
+      "name" : "Abhishek Katara",
+      "phone" : "8511883011",
+      "uid" : "wsHuRSn6bBcAeVL5yyg7KTXF6pZ2"
+    },
+    "x5CBW0Ve8MYGfHh1q3ejX9YNkd82" : {
+      "email" : "201552047@iiitvadodara.ac.in",
+      "name" : "RAJAT SONI",
+      "uid" : "x5CBW0Ve8MYGfHh1q3ejX9YNkd82"
+    },
+    "xCPFuQwqCJVOFf1d8fjo8O8s9hj1" : {
+      "email" : "201652016@iiitvadodara.ac.in",
+      "name" : "POOJA GURJAR",
+      "phone" : "9428677526",
+      "uid" : "xCPFuQwqCJVOFf1d8fjo8O8s9hj1"
+    },
+    "xbQslsJukCgSPXfWbH75ZE6sNS93" : {
+      "email" : "aangikshah001@gmail.com",
+      "name" : "Aangi Shah",
+      "phone" : "9724011161",
+      "uid" : "xbQslsJukCgSPXfWbH75ZE6sNS93"
+    },
+    "xqTWvf0h1WXOri9Zg9v3oSNFrcC2" : {
+      "email" : "201752009@iiitvadodara.ac.in",
+      "name" : "ANANYA TEWARI",
+      "uid" : "xqTWvf0h1WXOri9Zg9v3oSNFrcC2"
+    },
+    "y9qZraboBJUyPMVDh4BMyFnontt1" : {
+      "email" : "201551013@iiitvadodara.ac.in",
+      "name" : "ADITYA SAI",
+      "phone" : "9624417030",
+      "uid" : "y9qZraboBJUyPMVDh4BMyFnontt1"
+    },
+    "zUgN1VnHVDTbtmyvtFSwRXrHe5q2" : {
+      "email" : "vipulkatara143@gmail.com",
+      "name" : "Vipul Katara",
+      "phone" : "8690466728",
+      "uid" : "zUgN1VnHVDTbtmyvtFSwRXrHe5q2"
+    },
+    "zv54Wm0Ftrh5vBjERc55OLJbPZE2" : {
+      "email" : "saiteja1015@gmail.com",
+      "name" : "saii teja",
+      "uid" : "zv54Wm0Ftrh5vBjERc55OLJbPZE2"
+    }
+  }
+}
